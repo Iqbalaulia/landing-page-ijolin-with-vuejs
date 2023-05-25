@@ -1,0 +1,115 @@
+@import "/src/assets/scss/base/variables";
+
+.content-tagline {
+  width: 100%;
+  height: 60vh;
+  background-repeat: no-repeat;
+
+  .information_tagline {
+    width: 100%;
+    height: auto;
+    h1 {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: bold;
+      font-size: 3rem !important;
+      line-height: 67px;
+      padding: 4rem 0rem 0rem 0rem;
+      color: $black;
+    }
+    span {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: normal;
+      font-size: 1rem;
+      line-height: 24px;
+      color: $black;
+    }
+  }
+}
+
+.content_barter {
+  width: 100%;
+  height: auto;
+  margin: 2rem 0rem 2rem 0rem;
+  .image_phone {
+    width: 100%;
+    border: 6px solid $black-1;
+    border-radius: 30px;
+    height: 34rem;
+    background-repeat: no-repeat;
+    background-size: 250px 34rem, cover;
+  }
+  label {
+    font-size: 2.5rem;
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: bold;
+    color: $black-1;
+    line-height: 67px;
+  }
+
+  .image_underline {
+    margin: 1rem 0rem 0rem -8rem;
+  }
+  .image_product {
+    height: auto;
+  }
+
+  &_tutorial {
+    border: 1px solid $yellow-1;
+    border-radius: 16px;
+    height: auto;
+    width: 100%;
+
+    .tab_box {
+      width: 100%;
+      height: auto;
+      background: rgba(255, 212, 92, 0.25);
+      border-radius: 16px 16px 0px 0px;
+      padding: 1rem;
+    }
+
+    .box_content {
+      border-radius: 0px 0px 16px 16px;
+      width: 100%;
+      height: auto;
+      padding: 1rem;
+      border: 1px solid $yellow-1;
+
+      .span_label {
+        font-size: 1.5rem;
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: bold;
+        color: $black-1;
+        line-height: 67px;
+      }
+
+      ul {
+        list-style: none;
+        padding: 0 !important;
+
+        li {
+          margin: 0rem 0rem 0.6rem 0rem;
+        }
+
+        .numbering {
+          width: 50px;
+          height: 45px;
+          background-size: 40px 40px;
+
+          padding: 0.5rem 0rem 0rem 0.9rem;
+          background-repeat: no-repeat;
+
+          &_information {
+            font-family: "Poppins";
+            font-style: normal;
+            font-weight: 500;
+            font-size: 14px;
+          }
+        }
+      }
+    }
+  }
+}

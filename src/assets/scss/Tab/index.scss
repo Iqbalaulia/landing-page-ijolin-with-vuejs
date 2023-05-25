@@ -1,0 +1,31 @@
+@import "/src/assets/scss/base/variables";
+
+.comptab {
+  ul {
+    margin: 0px;
+    padding: 0px;
+
+    li {
+      font-family: "Poppins";
+      list-style: none;
+      display: inline-block;
+      background-color: transparent;
+      margin: 0px 0.3rem;
+      padding: 0.4rem 1rem;
+      cursor: default;
+      min-width: 6rem;
+      text-align: center;
+      font-size: 14px;
+
+      &.active {
+        color: $yellow-1;
+        border-bottom: 2px solid $yellow-1;
+      }
+
+      @media (max-width: 768px) {
+        width: 100%;
+        margin-bottom: 0.3rem;
+      }
+    }
+  }
+}

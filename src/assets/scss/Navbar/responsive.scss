@@ -1,0 +1,13 @@
+@media screen and (max-aspect-ratio: 3/2) {
+  .template {
+    height: 8vh;
+    .template-header {
+      display: none !important;
+    }
+    .template-links {
+      a {
+        font-size: 14px !important;
+      }
+    }
+  }
+}

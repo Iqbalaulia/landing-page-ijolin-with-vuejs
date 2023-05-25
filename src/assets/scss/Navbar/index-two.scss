@@ -1,0 +1,126 @@
+@import "/src/assets/scss/base/variables";
+
+.template {
+  padding: 0.7rem 0rem 0rem 0rem;
+  height: 10vh;
+  width: 100%;
+  background-color: $black-6;
+  position: relative;
+}
+
+.template > .template-header {
+  display: inline;
+}
+
+.template > .template-header > .template-title {
+  display: inline-block;
+  font-size: 22px;
+  color: #fff;
+  padding: 0px 10px 0px 10px;
+}
+
+.template > .template-btn {
+  display: none;
+}
+
+.template > .template-links {
+  display: inline;
+  float: right;
+  font-size: 18px;
+}
+
+.template > .template-links > a {
+  display: unset;
+  padding: 15px 10px 18px 10px;
+  text-decoration: none;
+  color: $black;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  margin: 0px 20px 0px 0px;
+}
+
+.template > .template-links > a:hover {
+  border-bottom: 4px solid $yellow-1;
+  border-radius: 20px 10px 0px 0px;
+  color: $yellow-1;
+}
+
+.active {
+  border-bottom: 4px solid $yellow-1;
+  border-radius: 20px 10px 0px 0px;
+  color: $yellow-1 !important;
+}
+
+.template > #template-check {
+  display: none;
+}
+
+// Reponsive
+
+@media (max-width: 600px) {
+  .template > .template-btn {
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+  }
+  .template > .template-btn > label {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 13px;
+  }
+  .template > .template-btn > label:hover,
+  .template #template-check:checked ~ .template-btn > label {
+    background-color: rgba(0, 0, 0, 0.3);
+  }
+  .template > .template-btn > label > span {
+    display: block;
+    width: 25px;
+    height: 10px;
+    border-top: 2px solid #eee;
+  }
+  .template > .template-links {
+    position: absolute;
+    display: block;
+    width: 100%;
+    background-color: #333;
+    height: 0px;
+    transition: all 0.3s ease-in;
+    overflow-y: hidden;
+    top: 50px;
+    left: 0px;
+  }
+  .template > .template-links > a {
+    display: block;
+    width: 100%;
+  }
+  .template > #template-check:not(:checked) ~ .template-links {
+    height: 0px;
+  }
+  .template > #template-check:checked ~ .template-links {
+    height: calc(100vh - 50px);
+    overflow-y: auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .template > .template-links > a {
+    display: inline-block;
+    padding: 14px 10px 18px 10px;
+    text-decoration: none;
+    color: $black;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0px 10px 0px 0px;
+    padding: 1.2rem 0rem 0rem 0rem;
+  }
+
+  .btn-primary-yellow {
+    padding: 0.2rem 0.5rem 0.2rem 0.5rem;
+  }
+}

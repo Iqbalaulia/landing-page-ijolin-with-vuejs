@@ -1,0 +1,1273 @@
+{
+  "kebijakan_privasi": {
+    "pembuka": {
+      "paragraf_1": "Adanya Kebijakan Privasi ini adalah komitmen nyata dari Ijolan untuk menghargai dan melindungi setiap data atau informasi pribadi Pengguna situs www.ijolan.id, situs-situs turunannya, serta aplikasi gawai Ijolan (selanjutnya disebut sebagai &quot;Situs&quot;).",
+      "paragraf_2": "Kebijakan Privasi ini (beserta syarat-syarat penggunaan dari situs Ijolan sebagaimana tercantum dalam Syarat &amp; Ketentuan dan informasi lain yang tercantum di Situs) menetapkan dasar atas perolehan, pengumpulan, pengolahan, penganalisisan, penampilan, pengiriman, pembukaan, penyimpanan, perubahan, penghapusan dan/atau segala bentuk pengelolaan yang terkait dengan data atau informasi yang mengidentifikasikan atau dapat digunakan untuk mengidentifikasi Pengguna yang Pengguna berikan kepada Ijolan atau yang Ijolan kumpulkan dari Pengguna maupun pihak ketiga (selanjutnya disebut sebagai &quot;Data Pribadi&quot;).",
+      "paragraf_3": "Dengan mengklik “Daftar” (Register) atau pernyataan serupa yang tersedia di laman pendaftaran Situs, Pengguna menyatakan bahwa setiap Data Pribadi Pengguna merupakan data yang benar dan sah, Pengguna mengakui bahwa ia telah diberitahukan dan memahami ketentuan Kebijakan Privasi ini serta Pengguna memberikan persetujuan kepada Ijolan untuk memperoleh, mengumpulkan, mengolah, menganalisis, menampilkan, mengirimkan, membuka, menyimpan, mengubah, menghapus, mengelola dan/atau mempergunakan data tersebut untuk tujuan sebagaimana tercantum dalam Kebijakan Privasi."
+    },
+
+    "list_kebijakan": [
+      {
+        "id": 1,
+        "abjad": "A",
+        "name": "Perolehan dan Pengumpulan Data Pribadi Pengguna",
+        "animate": "kebijakan_1",
+        "content": {
+          "pembukaan": "Ijolan mengumpulkan Data Pribadi Pengguna dengan tujuan untuk memproses transaksi Pengguna, mengelola dan memperlancar proses penggunaan Situs, serta tujuan-tujuan lainnya selama diizinkan oleh peraturan perundang-undangan yang berlaku. Adapun data Pengguna yang dikumpulkan adalah sebagai berikut:",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Data yang diserahkan secara mandiri oleh Pengguna, termasuk namun tidak terbatas pada data yang diserahkan pada saat Pengguna:",
+              "isi": [
+                {
+                  "id": 1,
+                  "penjelasan": "membuat atau memperbarui akun Ijolan, termasuk diantaranya nama pengguna (username), alamat email, nomor telepon, password, alamat, foto, dan informasi lainnya yang dapat mengidentifikasi Pengguna;"
+                },
+                {
+                  "id": 2,
+                  "penjelasan": "menghubungi Ijolan, termasuk melalui layanan pelanggan (customer service);"
+                },
+                {
+                  "id": 3,
+                  "penjelasan": "mengisi survei yang dikirimkan oleh Ijolan atau pihak lain yang ditunjuk secara resmi untuk mewakili Ijolan;"
+                },
+                {
+                  "id": 4,
+                  "penjelasan": "melakukan interaksi dengan Pengguna lainnya melalui fitur pesan, diskusi produk, ulasan, rating, Pusat Resolusi (sebagaimana didefinisikan dalam Syarat dan Ketentuan) dan fitur interaktif (baik satu atau dua arah) lainnya yang terdapat dalam Situs;"
+                },
+                {
+                  "id": 5,
+                  "penjelasan": "mempergunakan layanan-layanan pada Situs, termasuk data transaksi yang detil, diantaranya jenis, keterangan dari produk atau layanan yang dibeli, alamat pengiriman, kanal pembayaran yang digunakan, jumlah transaksi, tanggal dan waktu transaksi, serta detil transaksi lainnya;"
+                },
+                {
+                  "id": 6,
+                  "penjelasan": "mengisi data-data pembayaran pada saat Pengguna melakukan aktivitas transaksi pembayaran melalui Situs, termasuk namun tidak terbatas pada data rekening bank, kartu kredit, virtual account, instant payment, internet banking, gerai ritel; dan/atau"
+                },
+                {
+                  "id": 7,
+                  "penjelasan": "melakukan interaksi dengan Pengguna lainnya melalui fitur pesan, diskusi produk, ulasan, rating, Pusat Resolusi (sebagaimana didefinisikan dalam Syarat dan Ketentuan) dan fitur interaktif (baik satu atau dua arah) lainnya yang terdapat dalam Situs;"
+                },
+                {
+                  "id": 8,
+                  "penjelasan": "mengisi data-data detail mengenai alamat pengiriman, alamat penjemputan dan lokasi pengirim, termasuk namun tidak terbatas pada data alamat lengkap, titik koordinat lokasi berupa longitude latitude, nomor telepon, dan nama yang tercantum saat melakukan penyimpanan data di Ijolan."
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Data yang terekam pada saat Pengguna mempergunakan Situs, termasuk namun tidak terbatas pada:",
+              "isi": [
+                {
+                  "id": 1,
+                  "penjelasan": "data lokasi riil atau perkiraannya seperti alamat IP, lokasi Wi-Fi dan geo-location;"
+                },
+                {
+                  "id": 2,
+                  "penjelasan": "data berupa waktu dari setiap aktivitas Pengguna sehubungan dengan penggunaan Situs, termasuk waktu pendaftaran, login dan transaksi;"
+                },
+                {
+                  "id": 3,
+                  "penjelasan": "data penggunaan atau preferensi Pengguna, diantaranya interaksi Pengguna dalam menggunakan Situs, pilihan yang disimpan, serta pengaturan yang dipilih. Data tersebut diperoleh menggunakan cookies, pixel tags, dan teknologi serupa yang menciptakan dan mempertahankan pengenal unik;"
+                },
+                {
+                  "id": 4,
+                  "penjelasan": "data perangkat, diantaranya jenis perangkat yang digunakan untuk mengakses Situs, termasuk model perangkat keras, sistem operasi dan versinya, perangkat lunak, nomor IMEI, nama file dan versinya, pilihan bahasa, pengenal perangkat unik, pengenal iklan, nomor seri, informasi gerakan perangkat, dan/atau informasi jaringan seluler"
+                },
+                {
+                  "id": 5,
+                  "penjelasan": "data catatan (log), diantaranya catatan pada server yang menerima data seperti alamat IP perangkat, tanggal dan waktu akses, fitur aplikasi atau laman yang dilihat, proses kerja aplikasi dan aktivitas sistem lainnya, jenis peramban (browser), dan/atau situs atau layanan pihak ketiga yang Pengguna gunakan sebelum berinteraksi dengan Situs."
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "pendahuluan": "Data yang diperoleh dari sumber lain, termasuk namun tidak terbatas pada:",
+              "isi": [
+                {
+                  "id": 1,
+                  "penjelasan": "data berupa geo-location (GPS) dari mitra usaha Ijolan yang turut membantu Ijolan dalam mengembangkan dan menyajikan layanan-layanan dalam Situs kepada Pengguna, antara lain mitra penyedia layanan pembayaran, logistik atau kurir, infrastruktur situs, dan mitra- mitra lainnya."
+                },
+                {
+                  "id": 2,
+                  "penjelasan": "data berupa email, nomor telepon, nama, gender, dan/atau tanggal lahir dari mitra usaha Ijolan tempat Pengguna membuat atau mengakses akun Ijolan, seperti layanan media sosial, atau situs/aplikasi yang menggunakan application programming interface (API) Ijolan atau yang digunakan Ijolan;"
+                },
+                {
+                  "id": 3,
+                  "penjelasan": "data dari penyedia layanan finansial, termasuk namun tidak terbatas pada lembaga atau biro pemeringkat kredit atau Lembaga Pengelola Informasi Perkreditan (LPIP);"
+                },
+                {
+                  "id": 4,
+                  "penjelasan": "data berupa email dari penyedia layanan pemasaran."
+                }
+              ]
+            }
+          ],
+          "penutupan": "Ijolan dapat menggabungkan data yang diperoleh dari sumber tersebut dengan data lain yang dimilikinya."
+        }
+      },
+      {
+        "id": 2,
+        "abjad": "B",
+        "name": "Penggunaan Data Pribadi",
+        "animate": "kebijakan_2",
+        "content": {
+          "pembukaan": "Ijolan dapat menggunakan Data Pribadi yang diperoleh dan dikumpulkan dari Pengguna sebagaimana disebutkan dalam bagian sebelumnya untuk hal-hal sebagai berikut:",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Memproses segala bentuk permintaan, aktivitas maupun transaksi yang dilakukan oleh Pengguna melalui Situs, termasuk untuk keperluan pengiriman produk kepada Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Penyediaan fitur-fitur untuk memberikan, mewujudkan, memelihara dan memperbaiki produk dan layanan kami, termasuk:",
+              "isi": [
+                {
+                  "id": 1,
+                  "penjelasan": "menawarkan, memperoleh, menyediakan, atau memfasilitasi layanan marketplace seperti laman beranda, penelusuran, pencarian, rekomendasi produk, pembiayaan, pinjaman, maupun produk-produk lainnya melalui Situs;"
+                },
+                {
+                  "id": 2,
+                  "penjelasan": "memungkinkan fitur untuk mempribadikan (personalised) akun Ijolan Pengguna, seperti Wishlist dan Pengguna Favorit;"
+                },
+                {
+                  "id": 3,
+                  "penjelasan": "melakukan kegiatan internal yang diperlukan untuk menyediakan layanan pada situs/aplikasi Ijolan, seperti pemecahan masalah software, bug, permasalahan operasional, melakukan analisis data, pengujian, dan penelitian, dan untuk memantau dan menganalisis kecenderungan penggunaan dan aktivitas."
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "pendahuluan": "Membantu Pengguna pada saat berkomunikasi dengan Layanan Pelanggan Ijolan, diantaranya untuk:",
+              "isi": [
+                {
+                  "id": 1,
+                  "penjelasan": "memeriksa dan mengatasi permasalahan Pengguna;"
+                },
+                {
+                  "id": 2,
+                  "penjelasan": "mengarahkan pertanyaan Pengguna kepada petugas layanan pelanggan yang tepat untuk mengatasi permasalahan;"
+                },
+                {
+                  "id": 3,
+                  "penjelasan": "mengawasi dan memperbaiki tanggapan layanan pelanggan Ijolan;"
+                },
+                {
+                  "id": 4,
+                  "penjelasan": "menghubungi Pengguna melalui email, surat, telepon, fax, dan metode komunikasi lainnya, termasuk namun tidak terbatas, untuk membantu dan/atau menyelesaikan proses transaksi maupun proses penyelesaian kendala, serta menyampaikan berita atau notifikasi lainnya sehubungan dengan perlindungan Data Pribadi Pengguna oleh Ijolan, termasuk kegagalan perlindungan Data Pribadi Pengguna;"
+                },
+                {
+                  "id": 5,
+                  "penjelasan": "menggunakan informasi yang diperoleh dari Pengguna untuk tujuan penelitian, analisis, pengembangan dan pengujian produk guna meningkatkan keamanan layanan-layanan pada Situs, serta mengembangkan fitur dan produk baru;"
+                },
+                {
+                  "id": 6,
+                  "penjelasan": "menginformasikan kepada Pengguna terkait produk, layanan, promosi, studi, survei, berita, perkembangan terbaru, acara dan informasi lainnya, baik melalui Situs maupun melalui media lainnya. Ijolan juga dapat menggunakan informasi tersebut untuk mempromosikan dan memproses kontes dan undian, memberikan hadiah, serta menyajikan iklan dan konten yang relevan tentang layanan Ijolan dan mitra usahanya."
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "pendahuluan": "Melakukan monitoring ataupun investigasi terhadap transaksi-transaksi mencurigakan atau transaksi yang terindikasi mengandung unsur kecurangan atau pelanggaran terhadap Syarat dan Ketentuan atau ketentuan hukum yang berlaku, serta melakukan tindakan-tindakan yang diperlukan sebagai tindak lanjut dari hasil monitoring atau investigasi transaksi tersebut.",
+              "isi": []
+            },
+            {
+              "id": 5,
+              "pendahuluan": "Dalam keadaan tertentu, Ijolan mungkin perlu untuk menggunakan ataupun mengungkapkan Data Pribadi Pengguna untuk tujuan penegakan hukum atau untuk pemenuhan persyaratan dan kewajiban peraturan perundang-undangan yang berlaku, termasuk dalam hal terjadinya sengketa atau proses hukum antara Pengguna dan Ijolan, atau dugaan tindak pidana seperti penipuan atau pencurian data.",
+              "isi": []
+            },
+            {
+              "id": 6,
+              "pendahuluan": "Memfasilitasi transaksi penggabungan, penjualan aset perusahaan, konsolidasi atau restrukturisasi, pembiayaan atau akuisisi yang melibatkan Ijolan.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 3,
+        "abjad": "C",
+        "name": "Pengungkapan Data Pribadi Pengguna",
+        "animate": "kebijakan_3",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Ijolan berkomitmen untuk menjaga kerahasiaan Data Pribadi Pengguna yang berada di bawah kendali Ijolan dan menjamin tidak ada pengungkapan, penjualan, pengalihan, distribusi dan/atau peminjaman Data Pribadi Pengguna kepada pihak ketiga lain, tanpa persetujuan dari Pengguna, kecuali dalam hal-hal sebagai berikut:",
+              "isi": [
+                {
+                  "id": 1,
+                  "penjelasan": "dibutuhkan adanya pengungkapan Data Pribadi Pengguna kepada mitra atau pihak ketiga lain yang membantu Ijolan dalam menyajikan layanan yang tersedia atau layanan yang di kemudian hari akan tersedia pada Situs dan memproses segala bentuk aktivitas Pengguna dalam Situs, termasuk memproses transaksi, verifikasi pembayaran, promosi, dan pengiriman produk."
+                },
+                {
+                  "id": 2,
+                  "penjelasan": "Ijolan dapat menyediakan Data Pribadi Pengguna kepada mitra usaha sesuai dengan persetujuan Pengguna untuk menggunakan layanan mitra usaha, termasuk diantaranya aplikasi atau situs lain yang telah saling mengintegrasikan API atau layanannya, atau mitra usaha yang mana Ijolan telah bekerjasama untuk menyelenggarakan promosi, perlombaan, atau layanan khusus yang tersedia pada Situs, seperti program Tukar Tambah atau Langsung Laku yang diselenggarakan Ijolan."
+                },
+                {
+                  "id": 3,
+                  "penjelasan": "Ijolan dapat menyediakan Data Pribadi Pengguna kepada pihak ketiga yang menggunakan dan mengintegrasikan API publik yang disediakan oleh Ijolan (termasuk namun tidak terbatas pada penyedia layanan mitra usaha Ijolan) dengan aplikasi atau situs yang dioperasikannya untuk kepentingan penyelesaian transaksi antara Pembeli dan Penjual pada Situs atau tujuan penggunaan Data Pribadi lainnya yang telah disebutkan pada Bagian B Kebijakan Privasi ini."
+                },
+                {
+                  "id": 4,
+                  "penjelasan": "dibutuhkan adanya komunikasi antara mitra usaha Ijolan (seperti penyedia logistik, pembayaran, dan penyedia fitur atau fasilitas layanan lainnya) dengan Pengguna dalam hal penyelesaian kendala maupun hal-hal lainnya."
+                },
+                {
+                  "id": 5,
+                  "penjelasan": "Ijolan dapat menyediakan Data Pribadi Pengguna kepada vendor, konsultan, mitra pemasaran, firma/lembaga riset, atau penyedia layanan sejenis dalam rangka kegiatan pemasaran yang dilakukan oleh pihak ketiga, peningkatan dan pemeliharan kualitas layanan Ijolan, serta kegiatan publikasi lainnya."
+                },
+                {
+                  "id": 6,
+                  "penjelasan": "Pengguna menghubungi Ijolan melalui media publik seperti blog, media sosial, dan fitur tertentu pada Situs, yang mana komunikasi antara Pengguna dan Ijolan tersebut dapat dilihat dan diketahui oleh khalayak ramai."
+                },
+                {
+                  "id": 7,
+                  "penjelasan": "Ijolan dapat membagikan Data Pribadi Pengguna kepada anak perusahaan dan afiliasinya untuk membantu memberikan layanan atau melakukan pengolahan data untuk dan atas nama Ijolan."
+                },
+                {
+                  "id": 8,
+                  "penjelasan": "Ijolan dapat mengungkapkan dan/atau memberikan Data Pribadi Pengguna kepada pihak-pihak yang berkepentingan dalam rangka pelaksanaan analisis kelayakan kredit Pengguna."
+                },
+                {
+                  "id": 9,
+                  "penjelasan": "Ijolan mengungkapkan Data Pribadi Pengguna dalam upaya mematuhi kewajiban hukum dan/atau adanya permintaan yang sah dari aparat penegak hukum atau instansi penyelenggara negara yang berwenang."
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Sehubungan dengan pengungkapan Data Pribadi Pengguna sebagaimana dijelaskan di atas, Ijolan akan/mungkin perlu mengungkapkan Data Pribadi Pengguna kepada penyedia layanan pihak ketiga, agen dan/atau afiliasi atau perusahaan terkait Ijolan, dan/atau pihak ketiga lainnya yang berlokasi di luar wilayah Indonesia. Meskipun demikian, penyedia layanan pihak ketiga, agen dan/atau afiliasi atau perusahaan terkait dan/atau pihak ketiga lainnya tersebut hanya akan mengelola dan/atau memanfaatkan Data Pribadi Pengguna sehubungan dengan satu atau lebih tujuan sebagaimana diatur dalam Kebijakan Privasi ini dan sesuai dengan ketentuan peraturan perundangan-undangan yang berlaku.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 4,
+        "abjad": "D",
+        "name": "Cookies",
+        "animate": "kebijakan_4",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Cookies adalah file kecil yang secara otomatis akan mengambil tempat di dalam perangkat Pengguna yang menjalankan fungsi dalam menyimpan preferensi maupun konfigurasi Pengguna selama mengunjungi suatu situs.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Cookies tersebut tidak diperuntukkan untuk digunakan pada saat melakukan akses data lain yang Pengguna miliki di perangkat komputer Pengguna, selain dari yang telah Pengguna setujui untuk disampaikan.",
+              "isi": []
+            },
+            {
+              "id": 3,
+              "pendahuluan": "walaupun secara otomatis perangkat komputer Pengguna akan menerima cookies, Pengguna dapat menentukan pilihan untuk melakukan modifikasi melalui pengaturan browser Pengguna yaitu dengan memilih untuk menolak cookies (pilihan ini dapat menghambat tersedianya layanan Ijolan secara optimal pada saat Pengguna mengakses Situs).",
+              "isi": []
+            },
+            {
+              "id": 4,
+              "pendahuluan": "Ijolan menggunakan fitur Google Analytics Demographics and Interest. Data yang Ijolan peroleh dari fitur tersebut, seperti umur, jenis kelamin, minat Pengguna dan informasi lainnya yang dapat mengidentifikasi Pengguna, akan Ijolan gunakan untuk pengembangan fitur, fasilitas, dan/atau konten yang terdapat pada Situs Ijolan. Jika Pengguna tidak ingin data miliknya terlacak oleh Google Analytics, Pengguna dapat menggunakan Add-On Google Analytics Opt-Out Browser.",
+              "isi": []
+            },
+            {
+              "id": 5,
+              "pendahuluan": "Ijolan dapat menggunakan fitur-fitur yang disediakan oleh pihak ketiga dalam rangka meningkatkan layanan dan konten Ijolan, termasuk diantaranya ialah penilaian, penyesuaian, dan penyajian iklan kepada setiap Pengguna berdasarkan minat atau riwayat kunjungan. Jika Pengguna tidak ingin iklan ditampilkan berdasarkan penyesuaian tersebut, maka Pengguna dapat mengaturnya melalui browser.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 5,
+        "abjad": "E",
+        "name": "Pilihan Pengguna dan Transparansi",
+        "animate": "kebijakan_5",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Perangkat seluler pada umumnya (iOS dan Android) memiliki pengaturan sehingga aplikasi Ijolan tidak dapat mengakses data tertentu tanpa persetujuan dari Pengguna. Perangkat iOS akan memberikan pemberitahuan kepada Pengguna saat aplikasi Ijolan pertama kali meminta akses terhadap data tersebut, sedangkan perangkat Android akan memberikan pemberitahuan kepada Pengguna saat aplikasi Ijolan pertama kali dimuat. Dengan menggunakan aplikasi dan memberikan akses terhadap aplikasi, Pengguna dianggap memberikan persetujuannya terhadap pengumpulan dan penggunaan Data Pribadi Pengguna dalam perangkatnya.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Setelah transaksi jual beli melalui Situs berhasil, Penjual maupun Pembeli (sebagaimana sdidefinisikan dalam Syarat dan Ketentuan) memiliki kesempatan untuk memberikan penilaian dan ulasan terhadap satu sama lain. Informasi ini mungkin dapat dilihat secara publik dengan persetujuan Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 3,
+              "pendahuluan": "Pengguna dapat mengakses dan mengubah informasi berupa alamat email, nomor telepon, tanggal lahir, jenis kelamin, daftar alamat, metode pembayaran, dan rekening bank melalui fitur pengaturan (settings) pada Situs.",
+              "isi": []
+            },
+            {
+              "id": 4,
+              "pendahuluan": "Pengguna dapat menarik diri (opt-out) dari informasi atau notifikasi berupa buletin, ulasan, diskusi produk, pesan pribadi, atau pesan pribadi dari Admin yang dikirimkan oleh Ijolan melalui fitur pengaturan pada Situs. Ijolan tetap dapat mengirimkan pesan atau email berupa keterangan transaksi atau informasi terkait akun Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 5,
+              "pendahuluan": "Sepanjang tidak bertentangan dengan ketentuan peraturan perundang-undangan yang berlaku, Pengguna dapat menghubungi Ijolan untuk melakukan penarikan persetujuan terhadap perolehan, pengumpulan, penyimpanan, pengelolaan dan penggunaan data Pengguna. Apabila terjadi demikian maka Pengguna memahami konsekuensi bahwa Pengguna tidak dapat menggunakan layanan Situs maupun layanan Ijolan lainnya.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 6,
+        "abjad": "F",
+        "name": "Keamanan, Penyimpanan dan Penghapusan Data Pribadi Pengguna",
+        "animate": "kebijakan_6",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Ijolan melindungi setiap Data Pribadi Pengguna yang disimpan dalam sistemnya, serta melindungi data tersebut dari akses, penggunaan, modifikasi, pengambilan dan/atau pengungkapan tidak sah dengan menggunakan sejumlah tindakan dan prosedur keamanan, termasuk kata sandi dan kode OTP (One Time Password) Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Data Pribadi Pengguna juga dapat disimpan atau diproses di luar negara oleh pihak yang bekerja untuk Ijolan di negara lain, atau oleh penyedia layanan pihak ketiga, vendor, pemasok, mitra, kontraktor, atau afiliasi Ijolan. Dalam hal tersebut, Ijolan akan memastikan bahwa Data Pribadi tersebut tetap terlindungi sesuai dengan komitmen Ijolan dalam Kebijakan Privasi ini.",
+              "isi": []
+            },
+            {
+              "id": 3,
+              "pendahuluan": "Walaupun Ijolan telah menggunakan upaya terbaiknya untuk mengamankan dan melindungi Data Pribadi Pengguna, perlu diketahui bahwa pengiriman data melalui Internet tidak pernah sepenuhnya aman. Dengan demikian, Ijolan tidak dapat menjamin 100% keamanan data yang disediakan atau dikirimkan kepada Ijolan oleh Pengguna dan pemberian informasi oleh Pengguna merupakan risiko yang ditanggung oleh Pengguna sendiri.",
+              "isi": []
+            },
+            {
+              "id": 4,
+              "pendahuluan": "Ijolan akan menghapus dan/atau menganonimkan Data Pribadi Pengguna yang ada di bawah kendali Ijolan apabila (i) Data Pribadi Pengguna tidak lagi diperlukan untuk memenuhi tujuan dari pengumpulannya; dan (ii) penyimpanan tidak lagi diperlukan untuk tujuan kepatuhan terhadap peraturan perundang-undangan yang berlaku.",
+              "isi": []
+            },
+            {
+              "id": 5,
+              "pendahuluan": "Mohon diperhatikan bahwa masih ada kemungkinan bahwa beberapa Data Pribadi Pengguna disimpan oleh pihak lain, termasuk instansi penyelenggara negara yang berwenang. Dalam hal kami membagikan Data Pribadi Pengguna kepada instansi penyelenggara negara yang berwenang dan/atau instansi lainnya yang dapat ditunjuk oleh pemerintah yang berwenang atau memiliki kerja sama dengan Ijolan, Pengguna menyetujui dan mengakui bahwa penyimpanan Data Pribadi Pengguna oleh instansi tersebut akan mengikuti kebijakan penyimpanan data masing-masing instansi tersebut.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 6,
+        "abjad": "F",
+        "name": "Keamanan, Penyimpanan dan Penghapusan Data Pribadi Pengguna",
+        "animate": "kebijakan_6",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Ijolan melindungi setiap Data Pribadi Pengguna yang disimpan dalam sistemnya, serta melindungi data tersebut dari akses, penggunaan, modifikasi, pengambilan dan/atau pengungkapan tidak sah dengan menggunakan sejumlah tindakan dan prosedur keamanan, termasuk kata sandi dan kode OTP (One Time Password) Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Data Pribadi Pengguna juga dapat disimpan atau diproses di luar negara oleh pihak yang bekerja untuk Ijolan di negara lain, atau oleh penyedia layanan pihak ketiga, vendor, pemasok, mitra, kontraktor, atau afiliasi Ijolan. Dalam hal tersebut, Ijolan akan memastikan bahwa Data Pribadi tersebut tetap terlindungi sesuai dengan komitmen Ijolan dalam Kebijakan Privasi ini.",
+              "isi": []
+            },
+            {
+              "id": 3,
+              "pendahuluan": "Walaupun Ijolan telah menggunakan upaya terbaiknya untuk mengamankan dan melindungi Data Pribadi Pengguna, perlu diketahui bahwa pengiriman data melalui Internet tidak pernah sepenuhnya aman. Dengan demikian, Ijolan tidak dapat menjamin 100% keamanan data yang disediakan atau dikirimkan kepada Ijolan oleh Pengguna dan pemberian informasi oleh Pengguna merupakan risiko yang ditanggung oleh Pengguna sendiri.",
+              "isi": []
+            },
+            {
+              "id": 4,
+              "pendahuluan": "Ijolan akan menghapus dan/atau menganonimkan Data Pribadi Pengguna yang ada di bawah kendali Ijolan apabila (i) Data Pribadi Pengguna tidak lagi diperlukan untuk memenuhi tujuan dari pengumpulannya; dan (ii) penyimpanan tidak lagi diperlukan untuk tujuan kepatuhan terhadap peraturan perundang-undangan yang berlaku.",
+              "isi": []
+            },
+            {
+              "id": 5,
+              "pendahuluan": "Mohon diperhatikan bahwa masih ada kemungkinan bahwa beberapa Data Pribadi Pengguna disimpan oleh pihak lain, termasuk instansi penyelenggara negara yang berwenang. Dalam hal kami membagikan Data Pribadi Pengguna kepada instansi penyelenggara negara yang berwenang dan/atau instansi lainnya yang dapat ditunjuk oleh pemerintah yang berwenang atau memiliki kerja sama dengan Ijolan, Pengguna menyetujui dan mengakui bahwa penyimpanan Data Pribadi Pengguna oleh instansi tersebut akan mengikuti kebijakan penyimpanan data masing-masing instansi tersebut.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 7,
+        "abjad": "G",
+        "name": "Akses dan Perbaikan Data Pribadi Pengguna atau Penarikan Kembali Persetujuan",
+        "animate": "kebijakan_7",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Ijolan mengambil langkah-langkah yang wajar untuk memastikan bahwa Data Pribadi Pengguna diproses secara akurat dan lengkap. Namun demikian, penting bagi Pengguna untuk memberi tahu Ijolan secara tepat waktu tentang segala perubahan pada Data Pribadi Pengguna atau jika ada kesalahan dalam Data Pribadi Pengguna yang berada di bawah kendali Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Pengguna berhak untuk mengakses atau mengoreksi Data Pribadi Pengguna yang berada di bawah kendali Ijolan melalui layanan pelanggan Ijolan yang tersedia dalam Kebijakan Privasi ini. Namun demikian, permohonan tersebut hanya akan diproses oleh Ijolan apabila Pengguna telah menyerahkan bukti identitas yang memadai untuk melakukan akses atau koreksi terhadap data tersebut. Ijolan berhak menolak permohonan untuk mengakses, atau untuk memperbaiki, sebagian atau semua Data Pribadi Pengguna yang Ijolan miliki atau kuasai jika diizinkan atau diperlukan berdasarkan perundang-undangan yang berlaku. Hal ini termasuk dalam keadaan di mana Data Pribadi tersebut dapat berisi referensi kepada orang lain atau di mana permintaan untuk akses atau permintaan untuk mengoreksi adalah untuk alasan yang Ijolan anggap tidak relevan, tidak serius, atau menyulitkan.",
+              "isi": []
+            },
+            {
+              "id": 3,
+              "pendahuluan": "Ijolan dapat membebankan biaya administrasi kepada Pengguna untuk menangani permintaan Pengguna untuk mengakses atau mengoreksi Data Pribadi Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 4,
+              "pendahuluan": "Pengguna dapat menarik persetujuan yang telah Pengguna berikan terkait dengan pemrosesan Data Pribadi Pengguna yang ada di bawah kendali Ijolan dengan mengirimkan permintaan tersebut melalui layanan pelanggan Ijolan yang tercantum dalam Kebijakan Privasi ini. Ijolan akan memproses permintaan Pengguna dalam kurun waktu yang wajar sejak permintaan penarikan persetujuan tersebut disampaikan, dan selanjutnya tidak memproses Data Pribadi Pengguna sesuai dengan permintaan awal Pengguna, kecuali diwajibkan oleh peraturan perundang-undangan yang berlaku. Dalam hal terdapat penarikan persetujuan, Ijolan mungkin tidak dapat melaksanakan kewajiban- kewajibannya berdasarkan setiap perjanjian antara Pengguna dengan Ijolan. Sehubungan dengan hal tersebut, terdapat juga kemungkinan bahwa dikarenakan Ijolan tidak dapat melaksanakan kewajiban-kewajibannya oleh karena Pengguna menarik persetujuannya, setiap hubungan hukum antara Pengguna dan Ijolan menjadi berakhir dan tidak dapat dilanjutkan.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 8,
+        "abjad": "H",
+        "name": "Pengaduan terkait Perlindungan Data Pengguna",
+        "animate": "kebijakan_8",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Jika Pengguna memiliki kekhawatiran tentang penanganan atau perlakuan Ijolan terhadap Data Pribadi Pengguna atau jika Pengguna yakin bahwa privasinya telah dilanggar, Pengguna dapat menghubungi Ijolan melalui layanan pelanggan Ijolan atau kepada kontak Ijolan yang tercantum dalam Kebijakan Privasi ini dengan menjelaskan identitas dan sifat keluhan Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Ijolan akan menyelidiki keluhan Pengguna dan berupaya untuk memberikan tanggapan terhadap keluhan tersebut dalam kurun waktu yang wajar setelah menerima keluhan yang disampaikan oleh Pengguna.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 9,
+        "abjad": "I",
+        "name": "Hubungi Kami",
+        "animate": "kebijakan_9",
+        "content": {
+          "pembukaan": "Dalam hal Pengguna memiliki pertanyaan, komentar, keluhan, atau klaim mengenai Kebijakan Privasi ini atau Pengguna ingin mendapatkan akses dan / atau melakukan koreksi terhadap Data Pribadi miliknya, silakan hubungi layanan pelanggan Ijolan melalui laman https://www.ijolan.id/help.",
+          "kebijakan": [],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 10,
+        "abjad": "J",
+        "name": "Hubungi Kami",
+        "animate": "kebijakan_10",
+        "content": {
+          "pembukaan": "Ijolan akan menyimpan informasi selama akun Pengguna tetap aktif dan dapat melakukan penghapusan sesuai dengan ketentuan peraturan hukum yang berlaku.",
+          "kebijakan": [],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 11,
+        "abjad": "K",
+        "name": "Pembaruan Kebijakan Privasi",
+        "animate": "kebijakan_11",
+        "content": {
+          "pembukaan": "Ijolan dapat sewaktu-waktu melakukan perubahan atau pembaruan terhadap Kebijakan Privasi ini. Ijolan menyarankan agar Pengguna membaca secara seksama dan memeriksa halaman Kebijakan Privasi ini dari waktu ke waktu untuk mengetahui perubahan apapun. Dengan tetap mengakses dan menggunakan layanan Situs maupun layanan Ijolan lainnya, maka Pengguna dianggap menyetujui perubahan-perubahan dalam Kebijakan Privasi.",
+          "kebijakan": [],
+          "penutupan": ""
+        }
+      }
+    ],
+
+    "kebijakan": [
+      {
+        "kebijakan": "Perolehan dan Pengumpulan Data Pribadi Pengguna",
+        "peragraf_1": "Ijolan mengumpulkan Data Pribadi Pengguna dengan tujuan untuk memproses transaksi Pengguna, mengelola dan memperlancar proses penggunaan Situs, serta tujuan-tujuan lainnya selama diizinkan oleh peraturan perundang-undangan yang berlaku. Adapun data Pengguna yang dikumpulkan adalah sebagai berikut:",
+        "data-kebijakan": [
+          {
+            "title": "Data yang diserahkan secara mandiri oleh Pengguna, termasuk namun tidak terbatas pada data yang diserahkan pada saat Pengguna:",
+            "list": [
+              {
+                "data_id": 1,
+                "text": "membuat atau memperbarui akun Ijolan, termasuk diantaranya nama pengguna (username), alamat email, nomor telepon, password, alamat, foto, dan informasi lainnya yang dapat mengidentifikasi Pengguna;"
+              },
+              {
+                "data_id": 2,
+                "text": "menghubungi Ijolan, termasuk melalui layanan pelanggan (customer service)"
+              },
+              {
+                "data_id": 3,
+                "text": "mengisi survei yang dikirimkan oleh Ijolan atau pihak lain yang ditunjuk secara resmi untuk mewakili Ijolan"
+              },
+              {
+                "data_id": 4,
+                "text": "melakukan interaksi dengan Pengguna lainnya melalui fitur pesan, diskusi produk, ulasan, rating, Pusat Resolusi (sebagaimana didefinisikan dalam Syarat dan Ketentuan) dan fitur interaktif (baik satu atau dua arah) lainnya yang terdapat dalam Situs"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  "syarat_ketentuan": {
+    "pembuka": {
+      "paragraf_1": "Selamat datang di www.ijolan.id.",
+      "paragraf_2": "Syarat &amp; ketentuan yang ditetapkan di bawah ini mengatur pemakaian jasa yang ditawarkan oleh PT. Ijolan terkait penggunaan situs www.ijolan.id. Pengguna disarankan membaca dengan seksama karena dapat berdampak kepada hak dan kewajiban Pengguna di bawah hukum.",
+      "paragraf_3": "Dengan mendaftar dan/atau menggunakan situs www.ijolan.id, maka pengguna dianggap telah membaca, mengerti, memahami dan menyetujui semua isi dalam Syarat &amp; ketentuan. Syarat &amp; ketentuan ini merupakan bentuk kesepakatan yang dituangkan dalam sebuah perjanjian yang sah antara Pengguna dengan PT.Ijolan. Jika pengguna tidak menyetujui salah satu, pesebagian, atau seluruh isi Syarat &amp; ketentuan, maka pengguna tidak diperkenankan menggunakan layanan di www.ijolan.id."
+    },
+
+    "list_kebijakan": [
+      {
+        "id": 1,
+        "abjad": "A",
+        "name": "Definisi",
+        "animate": "kebijakan_1",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "PT Ijolan adalah suatu perseroan terbatas yang menjalankan kegiatan usaha jasa web portal www.ijolan.id, yakni situs pencarian toko dan Barang yang dijual oleh penjual terdaftar. Selanjutnya disebut Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Situs Ijolan adalah www.ijolan.id.",
+              "isi": []
+            },
+            {
+              "id": 3,
+              "pendahuluan": "Syarat & ketentuan adalah perjanjian antara Pengguna dan Ijolan yang berisikan seperangkat peraturan yang mengatur hak, kewajiban, tanggung jawab pengguna dan Ijolan, serta tata cara penggunaan sistem layanan Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 4,
+              "pendahuluan": "Pengguna adalah pihak yang menggunakan layanan Ijolan, termasuk namun tidak terbatas pada pembeli, penjual maupun pihak lain yang sekedar berkunjung ke Situs Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 5,
+              "pendahuluan": "Pembeli adalah Pengguna terdaftar yang melakukan permintaan atas Barang yang dijual oleh Penjual di Situs Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 6,
+              "pendahuluan": "Penjual adalah Pengguna terdaftar yang melakukan tindakan buka toko dan/atau melakukan penawaran atas suatu Barang kepada para Pengguna Situs Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 7,
+              "pendahuluan": "Barang adalah benda yang berwujud / memiliki fisik Barang yang dapat diantar / memenuhi kriteria pengiriman oleh perusahaan jasa pengiriman Barang.",
+              "isi": []
+            },
+            {
+              "id": 8,
+              "pendahuluan": "Saldo Refund adalah fasilitas penampungan sementara atas dana milik Pembeli (bukan fasilitas penyimpanan dana), yang disediakan Ijolan untuk menampung pengembalian dana transaksi (refund) pembelian Barang, produk digital, dan/atau produk keuangan. Dana ini hanya dapat digunakan kembali untuk melakukan pembelian pada Situs Ijolan dan/atau ditarik ke akun bank yang terdaftar.",
+              "isi": []
+            },
+            {
+              "id": 9,
+              "pendahuluan": "Saldo Penghasilan adalah fasilitas penampungan sementara atas dana milik Penjual (bukan fasilitas penyimpanan dana), yang disediakan Ijolan untuk menampung dana hasil penjualan Barang, produk investasi, dan/atau komisi affiliate pada Situs Ijolan. Dana ini hanya dapat ditarik ke akun bank yang terdaftar dan tidak dapat digunakan kembali untuk melakukan pembelian pada Situs Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 10,
+              "pendahuluan": "Feed adalah fitur pada Situs/Aplikasi Ijolan yang menampilkan konten dari Penjual, KOL, atau pihak lainnya terkait Barang tertentu.",
+              "isi": []
+            },
+            {
+              "id": 11,
+              "pendahuluan": "Key Opinion Leaders atau KOL adalah pihak yang mempromosikan Barang atau Penjual tertentu melalui Feed.",
+              "isi": []
+            },
+            {
+              "id": 12,
+              "pendahuluan": "Rekening Resmi Ijolan adalah rekening bersama yang disepakati oleh Ijolan dan para pengguna untuk proses transaksi jual beli di Situs Ijolan. Rekening resmi Ijolan dapat ditemukan di halaman https://www.ijolan.id/help/article/metode-bayar-di-ijolan.",
+              "isi": []
+            },
+            {
+              "id": 13,
+              "pendahuluan": "Internal Dropshipper adalah transaksi yang seluruhnya terjadi di ruang lingkup Ijolan yang dilakukan oleh Penjual dengan membeli Barang dari Penjual lainnya dan menjualnya kembali melalui Situs Ijolan.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 2,
+        "abjad": "B",
+        "name": "Akun, Saldo Refund, Saldo Penghasilan, Password dan Keamanan",
+        "animate": "kebijakan_2",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Pengguna dengan ini menyatakan bahwa pengguna adalah orang yang cakap dan mampu untuk mengikatkan dirinya dalam sebuah perjanjian yang sah menurut hukum.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Ijolan tidak memungut biaya pendaftaran kepada Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 3,
+              "pendahuluan": "Pengguna memahami bahwa 1 (satu) nomor telepon hanya dapat digunakan untuk mendaftar 1 (satu) akun Pengguna Ijolan, kecuali bagi Pengguna yang telah memiliki beberapa akun dengan 1 (satu) nomor telepon sebelumnya",
+              "isi": []
+            },
+            {
+              "id": 4,
+              "pendahuluan": "Pengguna yang telah mendaftar berhak bertindak sebagai:",
+              "isi": [
+                {
+                  "id": 1,
+                  "penjelasan": "Pembeli"
+                },
+                {
+                  "id": 2,
+                  "penjelasan": "Penjual, dengan memanfaatkan layanan buka toko."
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "pendahuluan": "Pengguna yang akan bertindak sebagai Penjual diwajibkan memilih pilihan menggunakan layanan buka toko. Setelah menggunakan layanan buka toko, Pengguna berhak melakukan pengaturan terhadap item-item yang akan diperdagangkan di etalase pribadi Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 6,
+              "pendahuluan": "Pengguna yang telah melakukan tindakan buka toko diharapkan mengunggah konten produk yang akan diperdagangkan dalam jangka waktu 90 (sembilan puluh) hari kalender setelah toko berhasil dibuka. Apabila dalam jangka waktu 90 (sembilan puluh) hari kalender Pengguna masih tidak mengunggah konten produk, maka Pengguna menyetujui dan memahami bahwa Ijolan berhak untuk melakukan moderasi dan/atau penutupan toko tanpa pemberitahuan sebelumnya.",
+              "isi": []
+            },
+            {
+              "id": 7,
+              "pendahuluan": "Ijolan tanpa pemberitahuan terlebih dahulu kepada Pengguna, memiliki kewenangan untuk melakukan tindakan yang perlu atas setiap dugaan pelanggaran atau pelanggaran Syarat &amp; ketentuan dan/atau hukum yang berlaku, yakni tindakan berupa memindahkan Barang ke gudang, penghapusan Barang, moderasi toko, penutupan toko, pembatalan listing, suspensi akun, dan/atau penghapusan akun pengguna.",
+              "isi": []
+            },
+            {
+              "id": 8,
+              "pendahuluan": "Ijolan memiliki kewenangan untuk menutup toko atau akun Pengguna baik sementara maupun permanen apabila didapati adanya tindakan kecurangan dalam bertransaksi, pelanggaran terhadap Syarat dan Ketentuan Ijolan, termasuk namun tidak terbatas pada Kebijakan Penalti Pengguna yang dapat Anda lihat DISINI. Pengguna menyetujui bahwa Ijolan berhak melakukan tindakan lain yang diperlukan terkait hal tersebut, termasuk namun tidak terbatas pada menolak pengajuan pembukaan toko yang baru apabila ditemukan kesamaan data.",
+              "isi": []
+            },
+            {
+              "id": 9,
+              "pendahuluan": "Pengguna memahami dan menyetujui untuk tidak menggunakan, memodifikasi, membongkar, melakukan kegiatan penggandaan, menjual kembali dan/atau kegiatan mengeksploitasi lainnya pada sistem perangkat lunak atau perangkat keras, jaringan dan/atau data Situs/Aplikasi dengan teknologi otomatis atau manual tanpa adanya izin dari Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 10,
+              "pendahuluan": "Pengguna menyetujui untuk tidak menggunakan dan/atau mengakses sistem Ijolan secara langsung atau tidak langsung baik keseluruhan atau sebagian dengan virus, perangkat lunak, atau teknologi lainnya yang dapat mengakibatkan melemahkan,merusak, mengganggu atau menghambat, membatasi dan/atau mengambil alih fungsionalitas serta integritas dari sistem perangkat lunak atau perangkat keras, jaringan, dan/atau data pada Situs/Aplikasi Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 11,
+              "pendahuluan": "Pengguna dilarang untuk menciptakan dan/atau menggunakan perangkat keras/lunak/fitur dan/atau alat lainnya, termasuk namun tidak terbatas pada emulator, robot, macro, crawler dan/atau perangkat otomatis yang bertujuan untuk mengakses atau menggunakan layanan pada sistem Ijolan, seperti namun tidak terbatas pada : (i) manipulasi data Toko; (ii) membuat banyak akun; (iii) memanipulasi perangkat yang bertujuan untuk merugikan Ijolan; (iv) kegiatan perambanan (crawling/scraping) atau penyalinan konten; (v) kegiatan otomatisasi dalam transaksi, jual beli, promosi,dan lain sebagainya; (vi) penambahan produk ke etalase; (vii) mengumpulkan (harvest) atau mencuri data pengguna; (viii) melakukan spamming, mengirimkan komunikasi elektronik dalam jumlah besar, mengirimkan surat berantai; dan/atau (ix) aktivitas lain yang secara wajar dapat dinilai sebagai tindakan manipulasi layanan dan sistem.",
+              "isi": []
+            },
+            {
+              "id": 12,
+              "pendahuluan": "Ijolan memiliki kewenangan untuk melakukan penyesuaian jumlah transaksi toko, penyesuaian jumlah reputasi, dan/atau melakukan proses moderasi/menutup akun Pengguna, jika diketahui atau diduga adanya kecurangan oleh Pengguna yang bertujuan memanipulasi data transaksi Pengguna demi meningkatkan reputasi toko (review dan atau jumlah transaksi). Contohnya adalah melakukan proses belanja ke toko sendiri dengan menggunakan akun pribadi atau akun pribadi lainnya.",
+              "isi": []
+            },
+            {
+              "id": 13,
+              "pendahuluan": "Saldo Refund berasal dari pengembalian dana transaksi (refund) pembelian Barang, produk digital, dan/atau produk keuangan di Situs Ijolan dan tidak bisa dilakukan penambahan secara sendiri (top up).",
+              "isi": []
+            },
+            {
+              "id": 14,
+              "pendahuluan": "Saldo Refund dapat digunakan sebagai salah satu metode pembayaran atas transaksi pembelian Barang, produk digital, dan/atau produk investasi di Situs Ijolan, dan dapat dilakukan penarikan dana (withdrawal) ke rekening bank yang terdaftar pada akun Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 15,
+              "pendahuluan": "Saldo Penghasilan hanya berasal dari hasil penjualan Barang, produk investasi, dan/atau komisi affiliate pada Situs Ijolan dan tidak bisa dilakukan penambahan secara sendiri (top up).",
+              "isi": []
+            },
+            {
+              "id": 16,
+              "pendahuluan": "Saldo Penghasilan hanya dapat dilakukan penarikan dana (withdrawal) ke rekening bank yang terdaftar pada akun Pengguna, dan tidak dapat digunakan sebagai metode pembayaran atas transaksi pembelian Barang, produk digital, dan/atau produk investasi di Situs Ijolan, namun dapat digunakan untuk fitur-fitur berlangganan yang membantu Penjual, seperti TopAds atau promo cashback toko.",
+              "isi": []
+            },
+            {
+              "id": 17,
+              "pendahuluan": "Ijolan memiliki kewenangan untuk melakukan pembekuan Saldo Refund dan Saldo Penghasilan Pengguna apabila ditemukan / diduga adanya tindak kecurangan dalam bertransaksi dan/atau pelanggaran terhadap syarat dan ketentuan Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 18,
+              "pendahuluan": "Penjual dilarang melakukan duplikasi toko, duplikasi produk, atau tindakan-tindakan lain yang dapat diindikasikan sebagai usaha persaingan tidak sehat.",
+              "isi": []
+            },
+            {
+              "id": 19,
+              "pendahuluan": "Pengguna memiliki hak untuk melakukan perubahan nama toko dan/atau domain toko sesuai dengan kebijakan yang ditentukan oleh Ijolan. Pengguna harus memastikan bahwa perubahan pada nama toko dan/atau domain toko telah sesuai dengan yang diinginkan dan Pengguna bertanggung jawab secara pribadi atas perubahan nama toko dan/atau domain toko yang dilakukan oleh Pengguna. Pengguna menyetujui bahwa setiap perikatan dan tindakan hukum yang terjadi sebelum perubahan nama toko dan/atau domain toko tetap mengikat Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 20,
+              "pendahuluan": "Pengguna memiliki hak untuk melakukan perubahan pada nama akun sebanyak jumlah kesempatan yang disediakan dan Ijolan berhak merubah jumlah kesempatan perubahan pada nama akun. Pengguna harus memastikan bahwa perubahan pada nama akun telah sesuai dengan yang diinginkan dan bertanggung jawab secara pribadi atas perubahan nama akun yang dilakukan oleh Pengguna. Pengguna menyetujui bahwa setiap perikatan yang terjadi sebelum perubahan nama tetap mengikat Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 21,
+              "pendahuluan": "Pengguna bertanggung jawab secara pribadi untuk menjaga kerahasiaan akun dan password untuk semua aktivitas yang terjadi dalam akun Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 22,
+              "pendahuluan": "Ijolan tidak akan meminta username, password maupun kode SMS verifikasi atau kode OTP milik akun Pengguna untuk alasan apapun, oleh karena itu Ijolan menghimbau Pengguna agar tidak memberikan data tersebut maupun data penting lainnya kepada pihak yang mengatasnamakan Ijolan atau pihak lain yang tidak dapat dijamin keamanannya.",
+              "isi": []
+            },
+            {
+              "id": 23,
+              "pendahuluan": "Pengguna setuju untuk memastikan bahwa Pengguna keluar dari akun di akhir setiap sesi dan memberitahu Ijolan jika ada penggunaan tanpa izin atas sandi atau akun Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 24,
+              "pendahuluan": "Pengguna dengan ini menyatakan bahwa Ijolan tidak bertanggung jawab atas kerugian ataupun kendala yang timbul atas penyalahgunaan akun Pengguna yang diakibatkan oleh kelalaian Pengguna, termasuk namun tidak terbatas pada menyetujui dan/atau memberikan akses masuk akun yang dikirimkan oleh Ijolan melalui pesan notifikasi kepada pihak lain melalui perangkat Pengguna, meminjamkan akun kepada pihak lain, mengakses link atau tautan yang diberikan oleh pihak lain, memberikan atau memperlihatkan kode verifikasi (OTP), password atau email kepada pihak lain, maupun kelalaian Pengguna lainnya yang mengakibatkan kerugian ataupun kendala pada akun Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 25,
+              "pendahuluan": "Pengguna memahami dan menyetujui bahwa untuk mempergunakan fasilitas keamanan one time password (OTP) maka penyedia jasa telekomunikasi terkait dapat sewaktu- waktu mengenakan biaya kepada Pengguna dengan nominal sebagai berikut (i) Rp 500 ditambah pajak 10% untuk Indosat, Tri, XL, Smartfren, dan Esia; (ii) Rp 200 ditambah pajak 10% untuk Telkomsel.",
+              "isi": []
+            },
+            {
+              "id": 26,
+              "pendahuluan": "Penjual dilarang mempromosikan toko dan/atau Barang secara langsung menggunakan fasilitas pesan pribadi, diskusi produk, ulasan produk yang dapat mengganggu kenyamanan Pengguna lain.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 3,
+        "abjad": "C",
+        "name": "Transaksi Pembelian",
+        "animate": "kebijakan_3",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Pembeli wajib bertransaksi melalui prosedur transaksi yang telah ditetapkan oleh Ijolan. Pembeli melakukan pembayaran dengan menggunakan metode pembayaran yang sebelumnya telah dipilih oleh Pembeli, dan kemudian Ijolan akan meneruskan dana ke pihak Penjual apabila tahapan transaksi jual beli pada sistem Ijolan telah selesai.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Saat melakukan pembelian Barang, Pembeli menyetujui bahwa:",
+              "isi": [
+                {
+                  "id": 1,
+                  "penjelasan": "Pembeli bertanggung jawab untuk membaca, memahami, dan menyetujui informasi/deskripsi keseluruhan Barang (termasuk didalamnya namun tidak terbatas pada warna, kualitas, fungsi, dan lainnya) sebelum membuat tawaran atau komitmen untuk membeli."
+                },
+                {
+                  "id": 2,
+                  "penjelasan": "Pembeli mengakui bahwa warna sebenarnya dari produk sebagaimana terlihat di Situs/Aplikasi Ijolan tergantung pada monitor komputer dan layar handphone Pembeli. Ijolan telah melakukan upaya terbaik untuk memastikan warna dalam foto-foto yang ditampilkan pada Situs/Aplikasi Ijolan muncul seakurat mungkin, tetapi tidak dapat menjamin bahwa penampilan warna pada Situs dan aplikasi Ijolan akan akurat."
+                },
+                {
+                  "id": 3,
+                  "penjelasan": "Pengguna masuk ke dalam kontrak yang mengikat secara hukum untuk membeli Barang ketika Pengguna membeli suatu barang."
+                },
+                {
+                  "id": 4,
+                  "penjelasan": "Ijolan tidak mengalihkan kepemilikan secara hukum atas barang-barang dari Penjual kepada Pembeli."
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "pendahuluan": "Pembeli memahami dan menyetujui bahwa ketersediaan stok Barang merupakan tanggung jawab Penjual yang menawarkan Barang tersebut. Terkait ketersediaan stok Barang dapat berubah sewaktu-waktu, sehingga dalam keadaan stok Barang kosong, maka penjual akan menolak order, dan pembayaran atas barang yang bersangkutan dikembalikan kepada Pembeli.",
+              "isi": []
+            },
+            {
+              "id": 4,
+              "pendahuluan": "Pembeli memahami sepenuhnya dan menyetujui bahwa segala transaksi yang dilakukan antara Pembeli dan Penjual selain melalui Rekening Resmi Ijolan dan/atau tanpa sepengetahuan Ijolan (melalui fasilitas/jaringan pribadi, pengiriman pesan, pengaturan transaksi khusus diluar situs Ijolan atau upaya lainnya) adalah merupakan tanggung jawab pribadi dari Pembeli.",
+              "isi": []
+            },
+            {
+              "id": 5,
+              "pendahuluan": "Ijolan memiliki kewenangan sepenuhnya untuk menolak pembayaran tanpa pemberitahuan terlebih dahulu.",
+              "isi": []
+            },
+            {
+              "id": 6,
+              "pendahuluan": "Pembeli menyetujui dan memahami bahwa dengan menggunakan Situs/Aplikasi Ijolan pada saat Pembeli melakukan transaksi pembelian, Ijolan akan meneruskan data informasi Pembeli kepada Penjual.",
+              "isi": []
+            },
+            {
+              "id": 7,
+              "pendahuluan": "Pembeli yang menggunakan metode pembayaran transfer bank, nilai total pembayaran akan ditambahkan kode unik untuk mempermudah proses verifikasi. Jika pembayaran tersebut telah diverifikasi, maka kode unik akan dikembalikan ke Saldo Refund Pembeli secara real time.",
+              "isi": []
+            },
+            {
+              "id": 8,
+              "pendahuluan": "Pembeli wajib melakukan pembayaran dengan metode pembayaran yang dipilih dengan nominal yang sesuai dengan jumlah tagihan beserta kode unik (apabila ada) yang tertera pada halaman pembayaran. PT Ijolan tidak bertanggung jawab atas kerugian yang dialami Pembeli, apabila Pembeli melakukan pembayaran yang tidak sesuai dengan jumlah tagihan yang tertera pada halaman pembayaran.",
+              "isi": []
+            },
+            {
+              "id": 9,
+              "pendahuluan": "Pembayaran oleh Pembeli wajib dilakukan segera (selambat-lambatnya dalam batas waktu 1x24 jam) setelah Pembeli melakukan check-out. Jika dalam batas waktu tersebut pembayaran belum dilakukan oleh Pembeli, Ijolan memiliki kewenangan untuk membatalkan transaksi tersebut. Pengguna tidak berhak mengajukan klaim atau tuntutan atas pembatalan transaksi tersebut.",
+              "isi": []
+            },
+            {
+              "id": 10,
+              "pendahuluan": "Pembeli disarankan untuk memeriksa kembali jumlah nominal pembayaran dengan jumlah tagihan yang tertera pada halaman pembayaran. Khusus pembayaran melalui transfer bank (verifikasi manual), apabila terdapat kekurangan pembayaran pada jumlah tagihan yang seharusnya dibayarkan, Pembeli akan mendapatkan pemberitahuan melalui e-mail Pembeli yang terdaftar pada Situs/Aplikasi, guna melakukan pembayaran kembali ke rekening resmi Ijolan, sesuai dengan selisih pembayaran yang tertera pada halaman pembayaran dan jumlah nominal yang telah dibayarkan, hingga batas waktu yang telah ditentukan sebelumnya.",
+              "isi": []
+            },
+            {
+              "id": 11,
+              "pendahuluan": "Pembayaran dengan metode pembayaran transfer bank (verifikasi manual) sangat disarankan mengunggah bukti pembayaran pada Aplikasi Ijolan untuk mempermudah proses verifikasi.",
+              "isi": []
+            },
+            {
+              "id": 12,
+              "pendahuluan": "Pembeli memahami dan menyetujui bahwa masalah keterlambatan proses pembayaran dan biaya tambahan yang disebabkan oleh perbedaan bank yang Pembeli pergunakan dengan bank Rekening resmi Ijolan adalah tanggung jawab Pembeli secara pribadi.",
+              "isi": []
+            },
+            {
+              "id": 13,
+              "pendahuluan": "Pengembalian dana dari Ijolan kepada Pembeli hanya dapat dilakukan jika dalam keadaan-keadaan tertentu berikut ini:",
+              "isi": [
+                {
+                  "id": 1,
+                  "penjelasan": "Kelebihan pembayaran dari Pembeli atas harga Barang"
+                },
+                {
+                  "id": 2,
+                  "penjelasan": "Masalah pengiriman Barang telah teridentifikasi secara jelas dari Penjual yang mengakibatkan pesanan Barang tidak sampai,"
+                },
+                {
+                  "id": 3,
+                  "penjelasan": "Penjual tidak bisa menyanggupi order karena kehabisan stok, perubahan ongkos kirim, maupun penyebab lainnya,"
+                },
+                {
+                  "id": 4,
+                  "penjelasan": "Penjual sudah menyanggupi pengiriman order Barang, tetapi setelah batas waktu yang ditentukan ternyata Penjual tidak mengirimkan Barang hingga batas waktu yang telah ditentukan."
+                },
+                {
+                  "id": 5,
+                  "penjelasan": "Penyelesaian permasalahan melalui Pusat Resolusi berupa keputusan untuk pengembalian dana kepada Pembeli atau hasil keputusan dari pihak Ijolan."
+                }
+              ]
+            },
+            {
+              "id": 14,
+              "pendahuluan": "Apabila terjadi proses pengembalian dana, maka pengembalian akan dilakukan melalui Saldo Refund milik Pengguna yang akan bertambah sesuai dengan jumlah pengembalian dana. Jika Pengguna menggunakan pilihan metode pembayaran kartu kredit maka pengembalian dana akan merujuk pada ketentuan bagian L. Kartu Kredit.",
+              "isi": []
+            },
+            {
+              "id": 15,
+              "pendahuluan": "Pembeli dilarang untuk membagi 1 (satu) transaksi pembelian Barang menjadi 2 (dua) transaksi atau lebih secara terpisah untuk membagi nilai pembayaran (split payment) dengan tujuan memanipulasi metode pembayaran dan/atau mendapatkan manfaat lebih yang melanggar Syarat dan Ketentuan, yang dilakukan dengan cara apa pun termasuk namun tidak terbatas dengan menghubungi Penjual untuk melakukan perubahan harga dan/atau membeli beberapa produk untuk membagi jumlah harga dari suatu produk yang diinginkan.",
+              "isi": []
+            },
+            {
+              "id": 16,
+              "pendahuluan": "Pembeli memahami dan menyetujui untuk melepaskan Ijolan dari tanggung jawab apabila terjadi kendala atas transaksi yang menggunakan metode split payment, termasuk namun tidak terbatas pada kendala transaksi, kendala pembayaran, kendala pengiriman, maupun kerusakan dan/atau kehilangan Barang baik sebagian maupun seluruhnya.",
+              "isi": []
+            },
+            {
+              "id": 17,
+              "pendahuluan": "Ijolan berwenang untuk melakukan tindakan-tindakan yang diperlukan apabila diketahui terdapat transaksi pembelian menggunakan metode split payment, termasuk namun tidak terbatas pada pembatalan transaksi dan/atau pembatalan promo atau cashback.",
+              "isi": []
+            },
+            {
+              "id": 18,
+              "pendahuluan": "Pembeli menyetujui untuk tidak memberitahukan atau menyerahkan bukti pembayaran dan/atau data pembayaran kepada pihak lain selain Ijolan. Dalam hal terjadi kerugian akibat pemberitahuan atau penyerahan bukti pembayaran dan/atau data pembayaran oleh Pembeli kepada pihak lain, maka hal tersebut akan menjadi tanggung jawab Pembeli.",
+              "isi": []
+            },
+            {
+              "id": 19,
+              "pendahuluan": "Pembeli wajib melakukan konfirmasi penerimaan Barang, setelah menerima kiriman Barang yang dibeli. Ijolan memberikan batas waktu 2 (dua) hari setelah pengiriman berstatus &quot;terkirim&quot; pada sistem Ijolan, untuk Pembeli melakukan konfirmasi penerimaan Barang. Jika dalam batas waktu tersebut tidak ada konfirmasi atau klaim dari pihak Pembeli, maka dengan demikian Pembeli menyatakan menyetujui dilakukannya konfirmasi penerimaan Barang secara otomatis oleh sistem Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 20,
+              "pendahuluan": "Setelah adanya konfirmasi penerimaan Barang atau konfirmasi penerimaan Barang otomatis, maka dana pihak Pembeli yang dikirimkan ke Rekening resmi Ijolan akan di lanjut kirimkan ke pihak Penjual (transaksi dianggap selesai).",
+              "isi": []
+            },
+            {
+              "id": 21,
+              "pendahuluan": "Pembeli memahami dan menyetujui bahwa setiap klaim yang dilayangkan setelah adanya konfirmasi / konfirmasi otomatis penerimaan Barang adalah bukan menjadi tanggung jawab Ijolan. Kerugian yang timbul setelah adanya konfirmasi/konfirmasi otomatis penerimaan Barang menjadi tanggung jawab Pembeli secara pribadi.",
+              "isi": []
+            },
+            {
+              "id": 22,
+              "pendahuluan": "Pembeli memahami dan menyetujui bahwa setiap masalah pengiriman Barang yang disebabkan keterlambatan pembayaran adalah merupakan tanggung jawab dari Pembeli.",
+              "isi": []
+            },
+            {
+              "id": 23,
+              "pendahuluan": "Ijolan berwenang mengambil keputusan atas permasalahan-permasalahan transaksi yang belum terselesaikan akibat tidak adanya kesepakatan penyelesaian, baik antara Penjual dan Pembeli, dengan melihat bukti-bukti yang ada. Keputusan Ijolan adalah keputusan akhir yang tidak dapat diganggu gugat dan mengikat pihak Penjual dan Pembeli untuk mematuhinya.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 4,
+        "abjad": "D",
+        "name": "Transaksi Penjualan",
+        "animate": "kebijakan_4",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Penjual dilarang memanipulasi harga Barang dengan tujuan apapun.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Penjual dilarang melakukan penawaran / berdagang Barang terlarang sesuai dengan yang telah ditetapkan pada ketentuan Poin J. Jenis Barang.",
+              "isi": []
+            },
+            {
+              "id": 3,
+              "pendahuluan": "Penjual wajib memberikan foto dan informasi produk dengan lengkap dan jelas sesuai dengan kondisi dan kualitas produk yang dijualnya. Apabila terdapat ketidaksesuaian antara foto dan informasi produk yang diunggah oleh Penjual dengan produk yang diterima oleh Pembeli, maka Ijolan berhak membatalkan/menahan dana transaksi.",
+              "isi": []
+            },
+            {
+              "id": 4,
+              "pendahuluan": "Dalam menggunakan Fasilitas &quot;Judul Produk&quot;, &quot;Foto Produk&quot;, &quot;Catatan&quot; dan &quot;Deskripsi Produk&quot;, Penjual dilarang membuat peraturan bersifat klausula baku yang tidak memenuhi peraturan perundang-undangan yang berlaku di Indonesia, termasuk namun tidak terbatas pada (i) tidak menerima komplain, (ii) tidak menerima retur (penukaran barang), (iii) tidak menerima refund (pengembalian dana), (iv) barang tidak bergaransi, (v) pengalihan tanggung jawab (termasuk tidak terbatas pada penanggungan ongkos kirim), (vi) penyusutan nilai harga dan (vii) pengiriman barang acak secara sepihak. Jika terdapat pertentangan antara catatan toko dan/atau deskripsi produk dengan Syarat & Ketentuan Ijolan, maka peraturan yang berlaku adalah Syarat &amp; Ketentuan Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 5,
+              "pendahuluan": "Penjual wajib memberikan balasan untuk menerima atau menolak pesanan Barang pihak Pembeli dalam batas waktu 2 hari terhitung sejak adanya notifikasi pesanan Barang dari Ijolan. Jika dalam batas waktu tersebut tidak ada balasan dari Penjual maka secara otomatis pesanan akan dibatalkan.",
+              "isi": []
+            },
+            {
+              "id": 6,
+              "pendahuluan": "Demi menjaga kenyamanan Pembeli dalam bertransaksi, Penjual memahami dan menyetujui bahwa Ijolan berhak melakukan moderasi toko Penjual apabila Penjual melakukan penolakan, pembatalan dan/atau tidak merespon pesanan Barang milik Pembeli dengan dugaan untuk memanipulasi transaksi, pelanggaran atas Syarat dan Ketentuan, dan/atau kecurangan atau penyalahgunaan lainnya.",
+              "isi": []
+            },
+            {
+              "id": 7,
+              "pendahuluan": "Penjual dilarang untuk menyediakan metode pembayaran terpisah (split payment) dan/atau membagi 1 (satu) transaksi pembelian Barang menjadi 2 (dua) transaksi yang berbeda dengan tujuan untuk memanipulasi metode pembayaran dan/atau mendapatkan manfaat lebih yang melanggar Syarat dan Ketentuan, yang dilakukan dengan cara apa pun termasuk namun tidak terbatas dengan menggunakan layanan &quot;varian produk&quot; atau menjual beberapa produk sehingga membagi jumlah harga atau transaksi dari suatu produk yang diinginkan.",
+              "isi": []
+            },
+            {
+              "id": 8,
+              "pendahuluan": "Penjual memahami dan menyetujui untuk melepaskan Ijolan dari tanggung jawab apabila terjadi kendala atas transaksi yang menggunakan metode split payment, termasuk namun tidak terbatas pada kendala transaksi, kendala pembayaran, kendala pengiriman, maupun kerusakan dan/atau kehilangan produk baik sebagian maupun seluruhnya.",
+              "isi": []
+            },
+            {
+              "id": 9,
+              "pendahuluan": "Ijolan berwenang untuk melakukan tindakan-tindakan yang diperlukan apabila diketahui terdapat transaksi penjualan menggunakan metode split payment, termasuk namun tidak terbatas pada pembatalan transaksi, penyesuaian reputasi toko, penghapusan produk, moderasi toko, dan/atau penutupan toko.",
+              "isi": []
+            },
+            {
+              "id": 10,
+              "pendahuluan": "Penjual menyetujui dan memahami bahwa dengan menerima data informasi Pembeli yang terdapat dalam Situs/Aplikasi wajib menjaga kerahasiaan dan dilarang menyalahgunakan data informasi Pembeli dalam bentuk apapun. Ijolan berhak, tanpa pemberitahuan sebelumnya, melakukan investigasi dan memberikan sanksi terhadap dugaan atau laporan penyalahgunaan data Pembeli.",
+              "isi": []
+            },
+            {
+              "id": 11,
+              "pendahuluan": "Penjual diharapkan untuk memasukkan nomor resi pengiriman Barang atau AWB (air way bill) yang valid, yaitu:",
+              "isi": [
+                {
+                  "id": 1,
+                  "penjelasan": "Tanggal pembuatan resi pengiriman Barang tidak lebih dulu dari tanggal transaksi pembelian Barang"
+                },
+                {
+                  "id": 2,
+                  "penjelasan": "Nomor resi pengiriman Barang harus dapat dilacak atau ditemukan pada web situs pelacakan atau sistem jasa ekspedisi rekanan Ijolan;"
+                },
+                {
+                  "id": 3,
+                  "penjelasan": "Merupakan resi pengiriman Barang yang memang diperuntukkan untuk pembeli yang akan menerima paket tersebut (detail pengiriman harus sama)."
+                }
+              ]
+            },
+            {
+              "id": 12,
+              "pendahuluan": "Penjual wajib memasukkan nomor resi pengiriman Barang yang valid dalam batas waktu 2 x 24 jam (tidak termasuk hari Sabtu/Minggu/libur Nasional) terhitung sejak adanya notifikasi pesanan Barang dari Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 13,
+              "pendahuluan": "Apabila Penjual memasukkan nomor resi pengiriman Barang yang invalid atau tidak dapat terlacak, Penjual wajib memasukkan nomor resi pengiriman Barang yang valid dalam batas waktu 1 x 24 jam (tidak termasuk hari Sabtu/Minggu/libur Nasional) terhitung sejak adanya notifikasi nomor resi invalid atau tidak terlacak yang diberikan oleh Ijolan kepada Penjual.",
+              "isi": []
+            },
+            {
+              "id": 14,
+              "pendahuluan": "Jika dalam batas waktu tersebut dalam Syarat & Ketentuan Poin D. 11 dan D. 12 pihak Penjual tidak memasukkan nomor resi pengiriman Barang yang valid, maka secara otomatis pesanan dianggap dibatalkan. Jika Penjual tetap mengirimkan Barang setelah melebihi batas waktu pengiriman sebagaimana dijelaskan diatas, maka Penjual memahami bahwa transaksi akan tetap dibatalkan untuk kemudian Penjual dapat melakukan penarikan Barang pada kurir tempat Barang dikirimkan.",
+              "isi": []
+            },
+            {
+              "id": 15,
+              "pendahuluan": "Penjual memahami dan menyetujui bahwa kurir pengiriman tidak dapat diubah oleh Penjual setelah Penjual melakukan konfirmasi pengiriman dan sepenuhnya menjadi tanggung jawab Penjual.",
+              "isi": []
+            },
+            {
+              "id": 16,
+              "pendahuluan": "Ijolan berwenang untuk membatalkan transaksi dan/atau menahan dana transaksi dalam hal: (i) nomor resi kurir pengiriman Barang yang diberikan oleh Penjual tidak sesuai dan/atau diduga tidak sesuai dengan transaksi yang terjadi di Situs Ijolan; (ii) Penjual mengirimkan Barang melalui jasa kurir/logistik selain dari yang disediakan dan terhubung dengan Situs Ijolan; (iii) jika nama produk dan deskripsi produk tidak sesuai/tidak jelas dengan produk yang dikirim; (iv) jika ditemukan adanya manipulasi transaksi; dan/atau (v) mencantumkan nomor resi pengiriman Barang yang telah digunakan oleh Penjual lainnya (internal dropshipper)",
+              "isi": []
+            },
+            {
+              "id": 17,
+              "pendahuluan": "Penjual memahami dan menyetujui bahwa seluruh Pajak sehubungan dengan transaksi Penjualan (namun tidak terbatas pada perubahan informasi toko dan/atau barang), akan dilaporkan dan diurus sendiri oleh masing-masing Penjual sesuai dengan ketentuan pajak yang berlaku di peraturan perundang-undangan di Indonesia.",
+              "isi": []
+            },
+            {
+              "id": 18,
+              "pendahuluan": "Penjual yang telah mencapai 100 (seratus) transaksi penjualan akan dikenakan biaya layanan sebesar 0,5% dari setiap transaksi penjualan berikutnya yang akan berlaku setelah tanggal 14 Juni 2021, ketentuan ini hanya berlaku untuk Penjual reguler dan tidak berlaku untuk Penjual yang berstatus Power Merchant, Power Merchant Pro dan/atau Official Store,",
+              "isi": []
+            },
+            {
+              "id": 19,
+              "pendahuluan": "Ijolan berwenang mengambil keputusan atas permasalahan-permasalahan transaksi yang belum terselesaikan akibat tidak adanya kesepakatan penyelesaian, baik antara Penjual dan Pembeli, dengan melihat bukti-bukti yang ada. Keputusan Ijolan adalah keputusan akhir yang tidak dapat diganggu gugat dan mengikat pihak Penjual dan Pembeli untuk mematuhinya.",
+              "isi": []
+            },
+            {
+              "id": 20,
+              "pendahuluan": "Apabila disepakati oleh Penjual dan Pembeli, penggunaan jasa Logistik yang berbeda dari pilihan awal pembeli dapat dilakukan (dengan ketentuan bahwa tarif pengiriman tersebut adalah di bawah tarif pengiriman awal).",
+              "isi": []
+            },
+            {
+              "id": 21,
+              "pendahuluan": "Ijolan berwenang memotong kelebihan tarif pengiriman dari dana pembayaran pembeli dan mengembalikan selisih kelebihan tarif pengiriman kepada pembeli.",
+              "isi": []
+            },
+            {
+              "id": 22,
+              "pendahuluan": "Penjual memahami sepenuhnya dan menyetujui bahwa invoice yang diterbitkan adalah atas nama Penjual.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 5,
+        "abjad": "E",
+        "name": "Penataan Etalase",
+        "animate": "kebijakan_5",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Penjual dilarang mempergunakan etalase (termasuk dan tidak terbatas pada informasi toko dan informasi barang) sebagai media untuk beriklan atau melakukan promosi ke halaman situs lain diluar situs Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Penjual dilarang memberikan data kontak pribadi dengan maksud untuk melakukan transaksi secara langsung kepada Pembeli / calon Pembeli.",
+              "isi": []
+            },
+            {
+              "id": 3,
+              "pendahuluan": "Penjual dilarang memberikan keterangan (informasi toko dan/atau Barang) selain/diluar daripada keterangan toko dan/atau Barang yang bersangkutan.",
+              "isi": []
+            },
+            {
+              "id": 4,
+              "pendahuluan": "Penamaan Barang dan informasi produk harus dilakukan sesuai dengan informasi detail, spesifikasi, dan kondisi Barang, dengan demikian Pengguna tidak diperkenankan untuk mencantumkan nama, deskripsi, gambar dan/atau kata yang tidak berkaitan dan/atau tidak sesuai dengan Barang tersebut.",
+              "isi": []
+            },
+            {
+              "id": 5,
+              "pendahuluan": "Penjual yang menambahkan referensi video pada etalase Toko yang bersumber dari link pihak ketiga termasuk namun tidak terbatas pada Youtube dan Google wajib mematuhi kebijakan pihak ketiga,",
+              "isi": []
+            },
+            {
+              "id": 6,
+              "pendahuluan": "Penamaan Barang dan informasi produk harus sesuai dengan kondisi Barang yang ditampilkan dan Pengguna tidak diperkenankan mencantumkan nama dan informasi yang tidak sesuai dengan kondisi Barang.",
+              "isi": []
+            },
+            {
+              "id": 7,
+              "pendahuluan": "Ijolan berhak tanpa pemberitahuan sebelumnya untuk melakukan penarikan subsidi (cashback), pembatalan benefit Rewards, penurunan konten dan/atau moderasi toko, apabila didapati pelanggaran sebagaimana diatur pada Point E.4 dan E.5.",
+              "isi": []
+            },
+            {
+              "id": 8,
+              "pendahuluan": "Penjual wajib memisahkan tiap-tiap Barang yang memiliki ukuran dan harga yang berbeda.",
+              "isi": []
+            },
+            {
+              "id": 9,
+              "pendahuluan": "Ijolan memiliki kewenangan mengambil-alih sub-domain toko Penjual jika akun Penjual sudah tidak aktif lebih dari 9 bulan, dan/atau pemilik merek dagang resmi (sesuai dengan Daftar Umum Merek di Indonesia) dengan nama yang sama dengan sub-domain Penjual melakukan klaim terhadapnya dikarenakan mereka ingin menggunakan sub-domain tersebut.",
+              "isi": []
+            },
+            {
+              "id": 10,
+              "pendahuluan": "Ijolan memiliki kewenangan untuk mengubah nama dan/atau memakai nama Toko dan/atau domain Pengguna untuk kepentingan internal Ijolan.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 6,
+        "abjad": "F",
+        "name": "Komisi",
+        "animate": "kebijakan_6",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Ijolan tidak mengenakan komisi untuk transaksi yang dilakukan melalui Situs Ijolan, kecuali apabila Pengguna menggunakan fitur atau layanan tertentu yang dikenakan biaya layanan.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Apabila dikemudian hari akan diberlakukan sistem komisi dalam transaksi melalui Situs Ijolan, maka akan diberitahukan kepada Pengguna yang terkena dampaknya melalui Situs Ijolan.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 7,
+        "abjad": "G",
+        "name": "Harga",
+        "animate": "kebijakan_7",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Harga Barang yang terdapat dalam situs Ijolan adalah harga yang ditetapkan oleh Penjual. Penjual dilarang memanipulasi harga barang dengan cara apapun.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Penjual dilarang menetapkan harga yang tidak wajar pada Barang yang ditawarkan melalui Situs Ijolan. Ijolan berhak untuk melakukan tindakan berupa memindahkan Barang ke gudang, pemeriksaan, penundaan, atau penurunan konten serta tindakan lainnya berdasarkan penilaian sendiri dari Ijolan atas dasar penetapan harga yang tidak wajar.",
+              "isi": []
+            },
+            {
+              "id": 3,
+              "pendahuluan": "Pembeli memahami dan menyetujui bahwa kesalahan keterangan harga dan informasi lainnya yang disebabkan tidak terbaharuinya halaman situs Ijolan dikarenakan browser/ISP yang dipakai Pembeli adalah tanggung jawab Pembeli.",
+              "isi": []
+            },
+            {
+              "id": 4,
+              "pendahuluan": "Penjual memahami dan menyetujui bahwa kesalahan ketik yang menyebabkan keterangan harga atau informasi lain menjadi tidak benar/sesuai adalah tanggung jawab Penjual. Perlu diingat dalam hal ini, apabila terjadi kesalahan pengetikan keterangan harga Barang yang tidak disengaja, Penjual berhak menolak pesanan Barang yang dilakukan oleh pembeli.",
+              "isi": []
+            },
+            {
+              "id": 5,
+              "pendahuluan": "Pengguna memahami dan menyetujui bahwa setiap masalah dan/atau perselisihan yang terjadi akibat ketidaksepahaman antara Penjual dan Pembeli tentang harga bukanlah merupakan tanggung jawab Ijolan.",
+              "isi": []
+            },
+            {
+              "id": 6,
+              "pendahuluan": "Dengan melakukan pemesanan melalui Ijolan, Pengguna menyetujui untuk membayar total biaya yang harus dibayarkan sebagaimana tertera dalam halaman pembayaran, yang terdiri dari harga barang, ongkos kirim, dan biaya-biaya lain yang mungkin timbul dan akan diuraikan secara tegas dalam halaman pembayaran. Pengguna setuju untuk melakukan pembayaran melalui metode pembayaran yang telah dipilih sebelumnya oleh Pengguna.",
+              "isi": []
+            },
+            {
+              "id": 7,
+              "pendahuluan": "Batasan harga maksimal satuan untuk Barang yang dapat ditawarkan adalah Rp.100.000.000,-",
+              "isi": []
+            },
+            {
+              "id": 8,
+              "pendahuluan": "Situs Ijolan untuk saat ini hanya melayani transaksi jual beli Barang dalam mata uang Rupiah.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 8,
+        "abjad": "H",
+        "name": "Tarif Pengiriman",
+        "animate": "kebijakan_8",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Pembeli memahami dan mengerti bahwa Ijolan telah melakukan usaha sebaik mungkin dalam memberikan informasi tarif pengiriman kepada Pembeli berdasarkan lokasi secara akurat, namun Ijolan tidak dapat menjamin keakuratan data tersebut dengan yang ada pada cabang setempat.",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Karena itu Ijolan menyarankan kepada Penjual untuk mencatat terlebih dahulu tarif yang diberikan Ijolan, agar dapat dibandingkan dengan tarif yang dibebankan di cabang setempat. Apabila mendapati perbedaan, mohon sekiranya untuk menginformasikan kepada kami melalui menu contact us dengan memberikan data harga yang didapat beserta kota asal dan tujuan, agar dapat kami telusuri lebih lanjut.",
+              "isi": []
+            },
+            {
+              "id": 3,
+              "pendahuluan": "Pengguna memahami dan menyetujui bahwa selisih biaya pengiriman Barang adalah di luar npm tanggung jawab Ijolan, dan oleh karena itu, adalah kebijakan Penjual sendiri untuk membatalkan atau tetap melakukan pengiriman Barang.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      },
+      {
+        "id": 9,
+        "abjad": "I",
+        "name": "Konten",
+        "animate": "kebijakan_9",
+        "content": {
+          "pembukaan": "",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Dalam menggunakan setiap fitur dan/atau layanan Ijolan, Pengguna dilarang unt",
+              "isi": []
+            },
+            {
+              "id": 2,
+              "pendahuluan": "Karena itu Ijolan menyarankan kepada Penjual untuk mencatat terlebih dahulu tarif yang diberikan Ijolan, agar dapat dibandingkan dengan tarif yang dibebankan di cabang setempat. Apabila mendapati perbedaan, mohon sekiranya untuk menginformasikan kepada kami melalui menu contact us dengan memberikan data harga yang didapat beserta kota asal dan tujuan, agar dapat kami telusuri lebih lanjut.",
+              "isi": []
+            },
+            {
+              "id": 3,
+              "pendahuluan": "Pengguna memahami dan menyetujui bahwa selisih biaya pengiriman Barang adalah di luar npm tanggung jawab Ijolan, dan oleh karena itu, adalah kebijakan Penjual sendiri untuk membatalkan atau tetap melakukan pengiriman Barang.",
+              "isi": []
+            }
+          ],
+          "penutupan": ""
+        }
+      }
+    ],
+
+    "kebijakan": [
+      {
+        "kebijakan": "Perolehan dan Pengumpulan Data Pribadi Pengguna",
+        "peragraf_1": "Ijolan mengumpulkan Data Pribadi Pengguna dengan tujuan untuk memproses transaksi Pengguna, mengelola dan memperlancar proses penggunaan Situs, serta tujuan-tujuan lainnya selama diizinkan oleh peraturan perundang-undangan yang berlaku. Adapun data Pengguna yang dikumpulkan adalah sebagai berikut:",
+        "data-kebijakan": [
+          {
+            "title": "Data yang diserahkan secara mandiri oleh Pengguna, termasuk namun tidak terbatas pada data yang diserahkan pada saat Pengguna:",
+            "list": [
+              {
+                "data_id": 1,
+                "text": "membuat atau memperbarui akun Ijolan, termasuk diantaranya nama pengguna (username), alamat email, nomor telepon, password, alamat, foto, dan informasi lainnya yang dapat mengidentifikasi Pengguna;"
+              },
+              {
+                "data_id": 2,
+                "text": "menghubungi Ijolan, termasuk melalui layanan pelanggan (customer service)"
+              },
+              {
+                "data_id": 3,
+                "text": "mengisi survei yang dikirimkan oleh Ijolan atau pihak lain yang ditunjuk secara resmi untuk mewakili Ijolan"
+              },
+              {
+                "data_id": 4,
+                "text": "melakukan interaksi dengan Pengguna lainnya melalui fitur pesan, diskusi produk, ulasan, rating, Pusat Resolusi (sebagaimana didefinisikan dalam Syarat dan Ketentuan) dan fitur interaktif (baik satu atau dua arah) lainnya yang terdapat dalam Situs"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

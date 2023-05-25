@@ -1,0 +1,20 @@
+@media screen and (max-width: 320px) and (min-width: 320px) {
+  .content-tagline {
+    .information_tagline {
+      h1 {
+        font-size: 2rem !important;
+      }
+    }
+  }
+
+  .content_search{
+     .content_question_collapse{
+       .collapse_custome {
+         .title{
+           font-size: 12px !important;
+           font-weight: bold !important;
+         }
+       }
+     }
+  }
+}

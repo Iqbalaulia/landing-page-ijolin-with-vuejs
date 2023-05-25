@@ -1,0 +1,8 @@
+.default_modal {
+    .modal-default {
+        @media (max-width: 768px) {
+            width: 95% !important;
+        }
+        border-radius: 10px;
+    }
+}

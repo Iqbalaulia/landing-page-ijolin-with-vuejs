@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+$black: #000000;
+$black-1: #141414;
+$black-2: #666666;
+$black-3: #acacac;
+$black-4: #c8c8c8;
+$black-5: #f1f1f1;
+$black-6: #ffffff;
+
+$blue-1: #2c51b0;
+$blue-2: #75a2e3;
+$blue-3: #e9f4ff;
+$blue-4: #fbfeff;
+$blue-card: #0f9ce1;
+$blue-sky: #407bff;
+
+$red-1: #ff4b4b;
+$red-2: #ffe8e8;
+$red-3: #fff8f8;
+
+$green-1: #00b81d;
+$green-2: #ebffee;
+
+$yellow-1: #fbc531;
+$yellow-2: #ffd45c;
+$yellow-3: #ffe292;
+$yellow-4: #fffdf6;
+
+$gray-900: #323f4b;
+$gray-800: #475a6b;
+$gray-700: #7b8794;
+$gray-600: #9aa5b1;
+$gray-500: #cbd2d9;
+$gray-400: #f2f3f5;
+$gray-200: #f8f9fa;
+$gray-100: #fff;
+
+$white: #fff;
+
+$grid-gutter-width: 15px;
+$enable-responsive-font-sizes: true;
+$font-family-sans-serif: Rubik;
+$font-family-monospace: Rubik;
+$font-size-base: 0.875rem;
+$table-cell-padding: 1.25rem;
+$input-btn-focus-width: 0rem;
+$blue: #2c51b0;
+$secondary: $gray-200;
+$green: #00b81d;
+$cyan: #04a4eb;
+$yellow: #f2c011;
+$orange: #ff9f00;
+$red: #ff4b4b;
+
+.btn-primary-yellow {
+  background-color: $yellow;
+  font-family: "Poppins";
+  border-radius: 8px;
+  padding: 0.5rem 1.4rem 0.5rem 1.4rem;
+}

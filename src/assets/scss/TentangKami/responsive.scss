@@ -1,0 +1,396 @@
+$samsung: 360px;
+$lg: 384px;
+$google: 393px;
+$pixel-hp: 411px;
+$oneplus: 412px;
+$iphone-mini: 320px;
+$iphone-x: 375px;
+$iphone-xr: 414px;
+$iphone-12: 390px;
+$iphone-12max: 428px;
+$nexus: 600px;
+$ipad: 768px;
+$nexus-10: 800px;
+$ipad-air: 820px;
+$ipad-pro: 834px;
+$galaxy-tab: 800px;
+$galaxy-fold: 884px;
+
+@media screen and (min-width: $samsung) and (max-width: $samsung) {
+  .content-tagline {
+    height: 50vh;
+
+    .information_tagline {
+      h1 {
+        font-size: 40px !important;
+      }
+      span {
+        font-size: 18px;
+        line-height: 1.6 !important;
+      }
+    }
+  }
+  .content_dealin {
+    label {
+      font-size: 30px;
+    }
+    &_information {
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $lg) and (max-width: $lg) {
+  .content-tagline {
+    height: 50vh;
+
+    .information_tagline {
+      h1 {
+        font-size: 40px !important;
+      }
+      span {
+        font-size: 18px;
+        line-height: 1.6 !important;
+      }
+    }
+  }
+  .content_dealin {
+    label {
+      font-size: 30px;
+    }
+    &_information {
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $google) and (max-width: $google) {
+  .content-tagline {
+    height: 46vh;
+
+    .information_tagline {
+      h1 {
+        font-size: 40px !important;
+      }
+      span {
+        font-size: 18px;
+        line-height: 1.6 !important;
+      }
+    }
+  }
+  .content_dealin {
+    label {
+      font-size: 30px;
+    }
+    &_information {
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $oneplus) and (max-width: $oneplus) {
+  .content-tagline {
+    height: 46vh;
+
+    .information_tagline {
+      h1 {
+        font-size: 40px !important;
+      }
+      span {
+        font-size: 18px;
+        line-height: 1.6 !important;
+      }
+    }
+  }
+  .content_dealin {
+    label {
+      font-size: 30px;
+    }
+    &_information {
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $pixel-hp) and (max-width: $pixel-hp) {
+  .content-tagline {
+    height: 46vh;
+
+    .information_tagline {
+      h1 {
+        font-size: 40px !important;
+      }
+      span {
+        font-size: 18px;
+        line-height: 1.6 !important;
+      }
+    }
+  }
+  .content_dealin {
+    label {
+      font-size: 30px;
+    }
+    &_information {
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $iphone-mini) and (max-width: $iphone-mini) {
+  .content-tagline {
+    height: 80vh;
+
+    .information_tagline {
+      h1 {
+        font-size: 40px !important;
+      }
+      span {
+        font-size: 18px;
+        line-height: 1.6 !important;
+      }
+    }
+  }
+  .content_dealin {
+    label {
+      font-size: 30px;
+    }
+    &_information {
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $iphone-x) and (max-width: $iphone-x) {
+  .content-tagline {
+    height: 50vh;
+
+    .information_tagline {
+      h1 {
+        font-size: 40px !important;
+      }
+      span {
+        font-size: 18px;
+        line-height: 1.6 !important;
+      }
+    }
+  }
+  .content_dealin {
+    label {
+      font-size: 30px;
+    }
+    &_information {
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $iphone-xr) and (max-width: $iphone-xr) {
+  .content-tagline {
+    height: 46vh;
+
+    .information_tagline {
+      h1 {
+        font-size: 40px !important;
+      }
+      span {
+        font-size: 18px;
+        line-height: 1.6 !important;
+      }
+    }
+  }
+  .content_dealin {
+    label {
+      font-size: 30px;
+    }
+    &_information {
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $iphone-12) and (max-width: $iphone-12) {
+  .content-tagline {
+    height: 46vh;
+
+    .information_tagline {
+      h1 {
+        font-size: 40px !important;
+      }
+      span {
+        font-size: 18px;
+        line-height: 1.6 !important;
+      }
+    }
+  }
+  .content_dealin {
+    label {
+      font-size: 30px;
+    }
+    &_information {
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $iphone-12max) and (max-width: $iphone-12max) {
+  .content-tagline {
+    height: 46vh;
+
+    .information_tagline {
+      h1 {
+        font-size: 40px !important;
+      }
+      span {
+        font-size: 18px;
+        line-height: 1.6 !important;
+      }
+    }
+  }
+  .content_dealin {
+    label {
+      font-size: 30px;
+    }
+    &_information {
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    }
+  }
+}
+
+// Tablets
+@media screen and (min-width: $nexus) and (max-width: $nexus) {
+  .content-tagline {
+    height: 40vh;
+
+    .information_tagline {
+      h1 {
+        font-size: 40px !important;
+      }
+      span {
+        font-size: 18px;
+        line-height: 1.6 !important;
+      }
+    }
+  }
+  .content_dealin {
+    label {
+      font-size: 30px;
+    }
+    &_information {
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $ipad) and (max-width: $ipad) {
+  .content-tagline {
+    height: 46vh;
+
+    .information_tagline {
+      h1 {
+        font-size: 40px !important;
+      }
+      span {
+        font-size: 18px;
+        line-height: 1.6 !important;
+      }
+    }
+  }
+  .content_dealin {
+    label {
+      font-size: 30px;
+    }
+    &_information {
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $galaxy-tab) and (max-width: $ipad-pro) {
+  .content-tagline {
+    height: 46vh;
+
+    .information_tagline {
+      h1 {
+        font-size: 40px !important;
+      }
+      span {
+        font-size: 18px;
+        line-height: 1.6 !important;
+      }
+    }
+  }
+  .content_dealin {
+    label {
+      font-size: 30px;
+    }
+    &_information {
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $galaxy-fold) and (max-width: $galaxy-fold) {
+  .content-tagline {
+    height: 46vh;
+
+    .information_tagline {
+      h1 {
+        font-size: 40px !important;
+      }
+      span {
+        font-size: 18px;
+        line-height: 1.6 !important;
+      }
+    }
+  }
+  .content_dealin {
+    label {
+      font-size: 30px;
+    }
+    &_information {
+      p {
+        font-size: 18px;
+        text-align: justify;
+      }
+    }
+  }
+}

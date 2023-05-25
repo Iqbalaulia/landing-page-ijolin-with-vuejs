@@ -1,0 +1,392 @@
+@import "/src/assets/scss/base/variables";
+
+.content-beranda {
+  // background-color: $yellow;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 40rem;
+  background-size: cover;
+
+  // border-radius: 0% 0% 50% 50% / 0% 0% 20% 20%;
+
+  .information_tagline {
+    width: 100%;
+    height: auto;
+    h1 {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: bold;
+      font-size: 3rem !important;
+      line-height: 67px;
+      padding: 4rem 0rem 0rem 0rem;
+      color: $black;
+    }
+    span {
+      font-family: "Poppins";
+      font-style: normal;
+      font-weight: normal;
+      font-size: 1rem;
+      line-height: 24px;
+      color: $black;
+    }
+  }
+}
+.image_banner {
+  margin: -20rem 0rem 0rem 0rem;
+  .image_center {
+    margin: -2rem -2rem 0rem -2rem;
+  }
+}
+
+.apps {
+  .image_apps {
+    margin: 0rem -1rem 0rem -1rem;
+  }
+}
+
+.content_fiture {
+  margin: 2rem 0rem 0rem 0rem;
+  height: auto;
+  label {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 67px;
+    color: $black;
+  }
+  .image_line {
+    display: block;
+    margin: 0rem 0rem 0rem 40rem !important;
+  }
+
+  &_lelang {
+    // margin: 0rem 0rem 0rem 0rem;
+    .information_lelang {
+      label {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        line-height: 42px;
+        color: $black;
+      }
+
+      &_text {
+        margin: 2rem 0rem 0rem 0rem;
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 160%;
+        color: $black-2;
+      }
+    }
+
+    &_image {
+      float: left;
+    }
+  }
+
+  &_chat {
+    // margin: 2rem 0rem 0rem 0rem;
+    &_image {
+      float: right;
+    }
+    &_informasi {
+      label {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        line-height: 42px;
+        color: $black;
+      }
+      &_text {
+        margin: 2rem 0rem 0rem 0rem;
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 160%;
+        color: $black-2;
+      }
+    }
+  }
+
+  &_transaksi {
+    // margin: 2rem 0rem 0rem 0rem;
+    .information_lelang {
+      label {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        line-height: 42px;
+        color: $black;
+      }
+
+      &_text {
+        margin: 2rem 0rem 0rem 0rem;
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 160%;
+        color: $black-2;
+      }
+    }
+
+    &_image {
+      float: left;
+    }
+  }
+}
+
+.testimonial {
+  background-color: $yellow-4;
+  width: 100%;
+  height: auto;
+  padding: 1rem;
+  .content_testimonial {
+    &_tagline {
+      label {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: bold;
+        font-size: 48px;
+        line-height: 67px;
+        color: $black;
+      }
+
+      &_text {
+        margin: 1rem 0rem 0rem 0rem;
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 160%;
+        color: $black-2;
+      }
+    }
+
+    &_card {
+      margin: 2.875rem 0rem 5rem 0rem;
+
+      .card {
+        background: $white;
+        box-shadow: 0px 6px 40px rgba(155, 152, 152, 0.16);
+        border-radius: 20px;
+        border: 1px solid $white;
+        .card-body {
+          .section_profile {
+            img {
+              width: 3.75rem;
+              height: 3.75rem;
+              border-radius: 50%;
+            }
+
+            .name_profile {
+              font-family: "Poppins";
+              font-style: normal;
+              font-weight: 600;
+              font-size: 16px;
+              line-height: 24px;
+              color: $black;
+            }
+            .title_profile {
+              font-family: "Poppins";
+              font-style: normal;
+              font-weight: normal;
+              font-size: 14px;
+              line-height: 21px;
+              color: $black-4;
+            }
+          }
+          .section_testimonial {
+            &_information {
+              font-family: "Poppins";
+              font-style: normal;
+              font-weight: normal;
+              font-size: 16px;
+              line-height: 160%;
+              color: $black-2;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.question {
+  .content_question {
+    &_tagline {
+      label {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: bold;
+        font-size: 48px;
+        line-height: 67px;
+        color: $black;
+      }
+    }
+    &_collapse {
+      margin: 3.5rem 0rem 0rem 0rem;
+      .el-collapse {
+        border-top: 0 !important;
+        border-bottom: 0 !important;
+
+        &-item__wrap {
+          border-bottom: none !important;
+        }
+      }
+
+      .collapse_custome {
+        padding: 1.5rem;
+        margin: 0rem 0rem 1rem 0rem;
+        border: 1px solid $white;
+        border-radius: 10px;
+        background-color: $white;
+        box-shadow: 0px 6px 40px rgba(155, 152, 152, 0.16);
+
+        .title {
+          font-size: 18px !important;
+          font-weight: bold;
+          border-bottom: 1px solid $black-5;
+          width: 100%;
+        }
+
+        .information {
+          font-family: "Poppins";
+          font-style: normal;
+          font-weight: normal;
+          font-size: 16px;
+          line-height: 160%;
+          color: $black-2;
+          padding: 1rem 0rem 0rem 0rem;
+        }
+        .el-collapse-item__header {
+          border-bottom: none !important;
+          font-size: 18px !important;
+        }
+
+        .el-collapse-item__wrap {
+          border-bottom: none !important;
+          font-size: 18px !important;
+        }
+      }
+    }
+  }
+}
+
+.product {
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: auto;
+  background-size: cover;
+  margin: 2rem 0rem 0rem 0rem;
+  padding: 2rem 0rem 2rem 0rem;
+
+  .content_product {
+    &_information {
+      label {
+        font-size: 3rem;
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: bold;
+        color: $black-1;
+        line-height: 67px;
+      }
+
+      .element {
+        width: 44%;
+        height: 12vh;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        margin: -4rem 0rem 0rem -2rem;
+      }
+
+      .information_tag {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 160%;
+        color: $black-2;
+      }
+
+      .apps_product {
+        .image_apps {
+          margin: 0rem -2rem 0rem -2rem;
+        }
+      }
+    }
+  }
+
+  .newsletter {
+    margin: 0rem 0rem -3.5rem 0rem;
+    .content_newsletter {
+      background-color: $white;
+      width: 100%;
+      height: auto;
+      box-shadow: 0px 6px 40px rgba(155, 152, 152, 0.16);
+      border-radius: 20px;
+      padding: 2rem;
+      z-index: 1;
+      position: relative;
+      .letter {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: bold;
+        font-size: 2rem;
+        line-height: 42px;
+        color: $black;
+      }
+
+      p {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1rem;
+        line-height: 160%;
+        color: $black-2;
+      }
+
+      .send {
+        button {
+          margin: 0rem 0rem 0rem 1rem;
+        }
+      }
+    }
+  }
+}
+
+.modal_coming_soon {
+  .image_section {
+    img {
+      width: 10vw;
+    }
+  }
+}
+
+.modal_label {
+  .coming_soon {
+    font-size: 4rem;
+    font-weight: bold;
+    color: $yellow-1;
+    font-family: "Poppins";
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px $yellow-1;
+  }
+
+  .ready {
+    font-size: 1.2rem;
+    color: $yellow-1;
+    font-family: "Poppins";
+    text-transform: uppercase;
+  }
+}

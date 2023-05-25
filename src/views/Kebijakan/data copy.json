@@ -1,0 +1,130 @@
+{
+  "kebijakan_privasi": {
+    "pembuka": {
+      "paragraf_1": "Adanya Kebijakan Privasi ini adalah komitmen nyata dari Ijolan untuk menghargai dan melindungi setiap data atau informasi pribadi Pengguna situs www.ijolan.id, situs-situs turunannya, serta aplikasi gawai Ijolan (selanjutnya disebut sebagai &quot;Situs&quot;).",
+      "paragraf_2": "Kebijakan Privasi ini (beserta syarat-syarat penggunaan dari situs Ijolan sebagaimana tercantum dalam Syarat &amp; Ketentuan dan informasi lain yang tercantum di Situs) menetapkan dasar atas perolehan, pengumpulan, pengolahan, penganalisisan, penampilan, pengiriman, pembukaan, penyimpanan, perubahan, penghapusan dan/atau segala bentuk pengelolaan yang terkait dengan data atau informasi yang mengidentifikasikan atau dapat digunakan untuk mengidentifikasi Pengguna yang Pengguna berikan kepada Ijolan atau yang Ijolan kumpulkan dari Pengguna maupun pihak ketiga (selanjutnya disebut sebagai &quot;Data Pribadi&quot;).",
+      "paragraf_3": "Dengan mengklik “Daftar” (Register) atau pernyataan serupa yang tersedia di laman pendaftaran Situs, Pengguna menyatakan bahwa setiap Data Pribadi Pengguna merupakan data yang benar dan sah, Pengguna mengakui bahwa ia telah diberitahukan dan memahami ketentuan Kebijakan Privasi ini serta Pengguna memberikan persetujuan kepada Ijolan untuk memperoleh, mengumpulkan, mengolah, menganalisis, menampilkan, mengirimkan, membuka, menyimpan, mengubah, menghapus, mengelola dan/atau mempergunakan data tersebut untuk tujuan sebagaimana tercantum dalam Kebijakan Privasi."
+    },
+
+    "list_kebijakan": [
+      {
+        "id": 1,
+        "abjad": "A",
+        "name": "Perolehan dan Pengumpulan Data Pribadi Pengguna",
+        "animate": "kebijakan_1",
+        "content": {
+          "pembukaan": "Ijolan mengumpulkan Data Pribadi Pengguna dengan tujuan untuk memproses transaksi Pengguna, mengelola dan memperlancar proses penggunaan Situs, serta tujuan-tujuan lainnya selama diizinkan oleh peraturan perundang-undangan yang berlaku. Adapun data Pengguna yang dikumpulkan adalah sebagai berikut:",
+          "kebijakan": [
+            {
+              "id": 1,
+              "pendahuluan": "Data yang diserahkan secara mandiri oleh Pengguna, termasuk namun tidak terbatas pada data yang diserahkan pada saat Pengguna:",
+              "isi": [
+                {
+                  "id": 1,
+                  "penjelasan": "membuat atau memperbarui akun Ijolan, termasuk diantaranya nama pengguna (username), alamat email, nomor telepon, password, alamat, foto, dan informasi lainnya yang dapat mengidentifikasi Pengguna;"
+                },
+                {
+                  "id": 2,
+                  "penjelasan": "menghubungi Ijolan, termasuk melalui layanan pelanggan (customer service);"
+                },
+                {
+                  "id": 3,
+                  "penjelasan": "menghubungi Ijolan, termasuk melalui layanan pelanggan (customer service);mengisi survei yang dikirimkan oleh Ijolan atau pihak lain yang ditunjuk secara resmi untuk mewakili Ijolan;"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "id": 2,
+        "abjad": "B",
+        "name": "Penggunaan Data Pribadi"
+      },
+      {
+        "id": 3,
+        "abjad": "C",
+
+        "name": "Pengungkapan Data Pribadi Pengguna"
+      },
+      {
+        "id": 4,
+        "abjad": "D",
+
+        "name": "Cookies"
+      },
+      {
+        "id": 5,
+        "abjad": "E",
+
+        "name": "Pilihan Pengguna dan Transparansi"
+      },
+      {
+        "id": 6,
+        "abjad": "F",
+
+        "name": "Keamanan, Penyimpanan dan Penghapusan Data Pribadi Pengguna"
+      },
+      {
+        "id": 7,
+        "abjad": "G",
+
+        "name": "Akses dan Perbaikan Data Pribadi Pengguna atau Penarikan Kembali Persetujuan"
+      },
+      {
+        "id": 8,
+        "abjad": "H",
+
+        "name": "Pengaduan terkait Perlindungan Data Pribadi Pengguna"
+      },
+      {
+        "id": 9,
+        "abjad": "I",
+
+        "name": "Hubungi Kami"
+      },
+      {
+        "id": 10,
+        "abjad": "J",
+
+        "name": "Penyimpanan dan Penghapusan Informasi"
+      },
+      {
+        "id": 11,
+        "abjad": "K",
+
+        "name": "Pembaruan Kebijakan Privasi"
+      }
+    ],
+
+    "kebijakan": [
+      {
+        "kebijakan": "Perolehan dan Pengumpulan Data Pribadi Pengguna",
+        "peragraf_1": "Ijolan mengumpulkan Data Pribadi Pengguna dengan tujuan untuk memproses transaksi Pengguna, mengelola dan memperlancar proses penggunaan Situs, serta tujuan-tujuan lainnya selama diizinkan oleh peraturan perundang-undangan yang berlaku. Adapun data Pengguna yang dikumpulkan adalah sebagai berikut:",
+        "data-kebijakan": [
+          {
+            "title": "Data yang diserahkan secara mandiri oleh Pengguna, termasuk namun tidak terbatas pada data yang diserahkan pada saat Pengguna:",
+            "list": [
+              {
+                "data_id": 1,
+                "text": "membuat atau memperbarui akun Ijolan, termasuk diantaranya nama pengguna (username), alamat email, nomor telepon, password, alamat, foto, dan informasi lainnya yang dapat mengidentifikasi Pengguna;"
+              },
+              {
+                "data_id": 2,
+                "text": "menghubungi Ijolan, termasuk melalui layanan pelanggan (customer service)"
+              },
+              {
+                "data_id": 3,
+                "text": "mengisi survei yang dikirimkan oleh Ijolan atau pihak lain yang ditunjuk secara resmi untuk mewakili Ijolan"
+              },
+              {
+                "data_id": 4,
+                "text": "melakukan interaksi dengan Pengguna lainnya melalui fitur pesan, diskusi produk, ulasan, rating, Pusat Resolusi (sebagaimana didefinisikan dalam Syarat dan Ketentuan) dan fitur interaktif (baik satu atau dua arah) lainnya yang terdapat dalam Situs"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

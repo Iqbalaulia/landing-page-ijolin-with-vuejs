@@ -1,0 +1,1760 @@
+$samsung: 360px;
+$lg: 384px;
+$google: 393px;
+$pixel-hp: 411px;
+$oneplus: 412px;
+$iphone-mini: 320px;
+$iphone-x: 375px;
+$iphone-xr: 414px;
+$iphone-12: 390px;
+$iphone-12max: 428px;
+$ukuran-480: 480px;
+$nexus: 600px;
+$ipad: 768px;
+$nexus-10: 800px;
+$ipad-air: 820px;
+$ipad-pro: 834px;
+$galaxy-tab: 800px;
+$galaxy-fold: 884px;
+
+@media screen and (min-width: $samsung) {
+  .content-beranda {
+    .information_tagline {
+      .text-center {
+        h1 {
+          font-size: 40px !important;
+          line-height: 1.4;
+        }
+        span {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+
+  .image_banner {
+    margin: -9rem 0rem 0rem 0rem;
+  }
+
+  .apps {
+    .image_apps {
+      width: 200px;
+      height: 120px;
+    }
+  }
+
+  .fiture {
+    margin: 0rem 0rem 2rem 0rem;
+    .content_fiture {
+      &_lelang {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_chat {
+        &_informasi {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_transaksi {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+    }
+  }
+
+  .question {
+    .content_question {
+      &_tagline {
+        label {
+          font-size: 2.4rem;
+          text-align: center;
+        }
+      }
+
+      &_collapse {
+        span {
+          line-height: 1.4;
+        }
+
+        .information {
+          text-align: left;
+          font-size: 18px !important;
+        }
+
+        .title {
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .product {
+    .content_product {
+      &_information {
+        label {
+          font-size: 2rem;
+          line-height: 1.6;
+        }
+
+        .element {
+          width: 250px;
+        }
+
+        .information_tag {
+          font-size: 18px;
+        }
+
+        .apps_product {
+          margin: 0;
+
+          .image_apps {
+            width: 168px;
+            height: 100px;
+            margin-left: auto;
+            margin-right: auto;
+          }
+        }
+      }
+    }
+  }
+
+  .modal_label {
+    .coming_soon {
+      font-size: 4rem;
+    }
+  }
+}
+
+@media screen and (min-width: $lg) {
+  .content-beranda {
+    .information_tagline {
+      .text-center {
+        h1 {
+          font-size: 40px !important;
+          line-height: 1.4;
+        }
+        span {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+
+  .image_banner {
+    margin: -11rem 0rem 0rem 0rem;
+  }
+
+  .apps {
+    .image_apps {
+      width: 200px;
+      height: 120px;
+    }
+  }
+
+  .fiture {
+    margin: 0rem 0rem 2rem 0rem;
+    .content_fiture {
+      &_lelang {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_chat {
+        &_informasi {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_transaksi {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+    }
+  }
+
+  .question {
+    .content_question {
+      &_tagline {
+        label {
+          font-size: 2.4rem;
+          text-align: center;
+        }
+      }
+
+      &_collapse {
+        span {
+          line-height: 1.4;
+        }
+
+        .information {
+          text-align: left;
+          font-size: 18px !important;
+        }
+
+        .title {
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .product {
+    .content_product {
+      &_information {
+        label {
+          font-size: 2rem;
+          line-height: 1.6;
+        }
+
+        .element {
+          width: 250px;
+        }
+
+        .information_tag {
+          font-size: 18px;
+        }
+
+        .apps_product {
+          margin: 0;
+
+          .image_apps {
+            width: 168px;
+            height: 100px;
+            margin-left: auto;
+            margin-right: auto;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $google) {
+  .content-beranda {
+    .information_tagline {
+      .text-center {
+        h1 {
+          font-size: 40px !important;
+          line-height: 1.4;
+        }
+        span {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+
+  .image_banner {
+    margin: -14rem 0rem 0rem 0rem;
+  }
+
+  .apps {
+    .image_apps {
+      width: 200px;
+      height: 120px;
+    }
+  }
+
+  .fiture {
+    margin: 0rem 0rem 2rem 0rem;
+    .content_fiture {
+      &_lelang {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_chat {
+        &_informasi {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_transaksi {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+    }
+  }
+
+  .question {
+    .content_question {
+      &_tagline {
+        label {
+          font-size: 2.4rem;
+          text-align: center;
+        }
+      }
+
+      &_collapse {
+        span {
+          line-height: 1.4;
+        }
+
+        .information {
+          text-align: left;
+          font-size: 18px !important;
+        }
+
+        .title {
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .product {
+    .content_product {
+      &_information {
+        label {
+          font-size: 2rem;
+          line-height: 1.6;
+        }
+
+        .element {
+          width: 250px;
+        }
+
+        .information_tag {
+          font-size: 18px;
+        }
+
+        .apps_product {
+          margin: 0;
+
+          .image_apps {
+            width: 168px;
+            height: 100px;
+            margin-left: auto;
+            margin-right: auto;
+          }
+        }
+      }
+    }
+  }
+  .modal_label {
+    .coming_soon {
+      font-size: 4.4rem;
+    }
+  }
+}
+
+@media screen and (min-width: $oneplus) {
+  .content-beranda {
+    .information_tagline {
+      .text-center {
+        h1 {
+          font-size: 40px !important;
+          line-height: 1.4;
+        }
+        span {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+
+  .image_banner {
+    margin: -13rem 0rem 0rem 0rem;
+  }
+
+  .apps {
+    .image_apps {
+      width: 200px;
+      height: 120px;
+    }
+  }
+
+  .fiture {
+    margin: 0rem 0rem 2rem 0rem;
+    .content_fiture {
+      &_lelang {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_chat {
+        &_informasi {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_transaksi {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+    }
+  }
+
+  .question {
+    .content_question {
+      &_tagline {
+        label {
+          font-size: 2.4rem;
+          text-align: center;
+        }
+      }
+
+      &_collapse {
+        span {
+          line-height: 1.4;
+        }
+
+        .information {
+          text-align: left;
+          font-size: 18px !important;
+        }
+
+        .title {
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .product {
+    .content_product {
+      &_information {
+        label {
+          font-size: 2rem;
+          line-height: 1.6;
+        }
+
+        .element {
+          width: 250px;
+        }
+
+        .information_tag {
+          font-size: 18px;
+        }
+
+        .apps_product {
+          margin: 0;
+
+          .image_apps {
+            width: 168px;
+            height: 100px;
+            margin-left: auto;
+            margin-right: auto;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $pixel-hp) {
+  .content-beranda {
+    .information_tagline {
+      .text-center {
+        h1 {
+          font-size: 40px !important;
+          line-height: 1.4;
+        }
+        span {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+
+  .image_banner {
+    margin: -13rem 0rem 0rem 0rem;
+  }
+
+  .apps {
+    .image_apps {
+      width: 200px;
+      height: 120px;
+    }
+  }
+
+  .fiture {
+    margin: 0rem 0rem 2rem 0rem;
+    .content_fiture {
+      &_lelang {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_chat {
+        &_informasi {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_transaksi {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+    }
+  }
+
+  .question {
+    .content_question {
+      &_tagline {
+        label {
+          font-size: 2.4rem;
+          text-align: center;
+        }
+      }
+
+      &_collapse {
+        span {
+          line-height: 1.4;
+        }
+
+        .information {
+          text-align: left;
+          font-size: 18px !important;
+        }
+
+        .title {
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .product {
+    .content_product {
+      &_information {
+        label {
+          font-size: 2rem;
+          line-height: 1.6;
+        }
+
+        .element {
+          width: 250px;
+        }
+
+        .information_tag {
+          font-size: 18px;
+        }
+
+        .apps_product {
+          margin: 0;
+
+          .image_apps {
+            width: 168px;
+            height: 100px;
+            margin-left: auto;
+            margin-right: auto;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $iphone-mini) {
+  .content-beranda {
+    .information_tagline {
+      .text-center {
+        h1 {
+          font-size: 40px !important;
+          line-height: 1.4;
+        }
+        span {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+
+  .image_banner {
+    margin: -7rem 0rem 0rem 0rem;
+  }
+
+  .apps {
+    .image_apps {
+      width: 180px;
+      height: 110px;
+    }
+  }
+
+  .fiture {
+    margin: 0rem 0rem 2rem 0rem;
+    .content_fiture {
+      &_lelang {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_chat {
+        &_informasi {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_transaksi {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+    }
+  }
+
+  .question {
+    .content_question {
+      &_tagline {
+        label {
+          font-size: 2.4rem;
+          text-align: center;
+        }
+      }
+
+      &_collapse {
+        span {
+          line-height: 1.4;
+        }
+
+        .information {
+          text-align: left;
+          font-size: 18px !important;
+        }
+
+        .title {
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .product {
+    .content_product {
+      &_information {
+        label {
+          font-size: 2rem;
+          line-height: 1.6;
+        }
+
+        .element {
+          width: 250px;
+        }
+
+        .information_tag {
+          font-size: 18px;
+        }
+
+        .apps_product {
+          margin: 0;
+
+          .image_apps {
+            width: 140px;
+            height: 96px;
+            margin-left: auto;
+            margin-right: auto;
+          }
+        }
+      }
+    }
+  }
+  .modal_label {
+    .coming_soon {
+      font-size: 2.2rem;
+    }
+  }
+}
+
+@media screen and (min-width: $iphone-x) {
+  .content-beranda {
+    .information_tagline {
+      .text-center {
+        h1 {
+          font-size: 40px !important;
+          line-height: 1.4;
+        }
+        span {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+
+  .image_banner {
+    margin: -13rem 0rem 0rem 0rem;
+  }
+
+  .apps {
+    .image_apps {
+      width: 180px;
+      height: 110px;
+    }
+  }
+
+  .fiture {
+    margin: 0rem 0rem 2rem 0rem;
+    .content_fiture {
+      &_lelang {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_chat {
+        &_informasi {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_transaksi {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+    }
+  }
+
+  .question {
+    .content_question {
+      &_tagline {
+        label {
+          font-size: 2.4rem;
+          text-align: center;
+        }
+      }
+
+      &_collapse {
+        span {
+          line-height: 1.4;
+        }
+
+        .information {
+          text-align: left;
+          font-size: 18px !important;
+        }
+
+        .title {
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .product {
+    .content_product {
+      &_information {
+        label {
+          font-size: 2rem;
+          line-height: 1.6;
+        }
+
+        .element {
+          width: 250px;
+        }
+
+        .information_tag {
+          font-size: 18px;
+        }
+
+        .apps_product {
+          margin: 0;
+
+          .image_apps {
+            width: 168px;
+            height: 100px;
+            margin-left: auto;
+            margin-right: auto;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $iphone-xr) {
+  .content-beranda {
+    .information_tagline {
+      .text-center {
+        h1 {
+          font-size: 40px !important;
+          line-height: 1.4;
+        }
+        span {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+
+  .image_banner {
+    margin: -15rem 0rem 0rem 0rem;
+  }
+
+  .apps {
+    .image_apps {
+      width: 180px;
+      height: 110px;
+    }
+  }
+
+  .fiture {
+    margin: 0rem 0rem 2rem 0rem;
+    .content_fiture {
+      &_lelang {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_chat {
+        &_informasi {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_transaksi {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+    }
+  }
+
+  .question {
+    .content_question {
+      &_tagline {
+        label {
+          font-size: 2.4rem;
+          text-align: center;
+        }
+      }
+
+      &_collapse {
+        span {
+          line-height: 1.4;
+        }
+
+        .information {
+          text-align: left;
+          font-size: 18px !important;
+        }
+
+        .title {
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .product {
+    .content_product {
+      &_information {
+        label {
+          font-size: 2rem;
+          line-height: 1.6;
+        }
+
+        .element {
+          width: 250px;
+        }
+
+        .information_tag {
+          font-size: 18px;
+        }
+
+        .apps_product {
+          margin: 0;
+
+          .image_apps {
+            width: 168px;
+            height: 100px;
+            margin-left: auto;
+            margin-right: auto;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $iphone-12) {
+  .content-beranda {
+    .information_tagline {
+      .text-center {
+        h1 {
+          font-size: 40px !important;
+          line-height: 1.4;
+        }
+        span {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+
+  .image_banner {
+    margin: -13rem 0rem 0rem 0rem;
+  }
+
+  .apps {
+    .image_apps {
+      width: 180px;
+      height: 110px;
+    }
+  }
+
+  .fiture {
+    margin: 0rem 0rem 2rem 0rem;
+    .content_fiture {
+      &_lelang {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_chat {
+        &_informasi {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_transaksi {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+    }
+  }
+
+  .question {
+    .content_question {
+      &_tagline {
+        label {
+          font-size: 2.4rem;
+          text-align: center;
+        }
+      }
+
+      &_collapse {
+        span {
+          line-height: 1.4;
+        }
+
+        .information {
+          text-align: left;
+          font-size: 18px !important;
+        }
+
+        .title {
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .product {
+    .content_product {
+      &_information {
+        label {
+          font-size: 2rem;
+          line-height: 1.6;
+        }
+
+        .element {
+          width: 250px;
+        }
+
+        .information_tag {
+          font-size: 18px;
+        }
+
+        .apps_product {
+          margin: 0;
+
+          .image_apps {
+            width: 168px;
+            height: 100px;
+            margin-left: auto;
+            margin-right: auto;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $iphone-12max) {
+  .content-beranda {
+    .information_tagline {
+      .text-center {
+        h1 {
+          font-size: 40px !important;
+          line-height: 1.4;
+        }
+        span {
+          font-size: 18px;
+        }
+      }
+    }
+  }
+
+  .image_banner {
+    margin: -15rem 0rem 0rem 0rem;
+  }
+
+  .apps {
+    .image_apps {
+      width: 180px;
+      height: 110px;
+    }
+  }
+
+  .fiture {
+    margin: 0rem 0rem 2rem 0rem;
+    .content_fiture {
+      &_lelang {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_chat {
+        &_informasi {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+
+      &_transaksi {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+          }
+        }
+      }
+    }
+  }
+
+  .question {
+    .content_question {
+      &_tagline {
+        label {
+          font-size: 2.4rem;
+          text-align: center;
+        }
+      }
+
+      &_collapse {
+        span {
+          line-height: 1.4;
+        }
+
+        .information {
+          text-align: left;
+          font-size: 18px !important;
+        }
+
+        .title {
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .product {
+    .content_product {
+      &_information {
+        label {
+          font-size: 2rem;
+          line-height: 1.6;
+        }
+
+        .element {
+          width: 250px;
+        }
+
+        .information_tag {
+          font-size: 18px;
+        }
+
+        .apps_product {
+          margin: 0;
+
+          .image_apps {
+            width: 168px;
+            height: 100px;
+            margin-left: auto;
+            margin-right: auto;
+          }
+        }
+      }
+    }
+  }
+}
+
+// Tablets
+@media screen and (min-width: $nexus) and (max-width: $nexus) {
+  .content-beranda {
+    .information_tagline {
+      .text-center {
+        h1 {
+          font-size: 40px !important;
+          line-height: 1.4;
+        }
+        span {
+          font-size: 20px;
+        }
+      }
+    }
+  }
+
+  .image_banner {
+    margin: -16rem 0rem 0rem 0rem;
+  }
+
+  .apps {
+    .image_apps {
+      width: 200px;
+      height: 110px;
+    }
+  }
+
+  .fiture {
+    margin: 0rem 0rem 2rem 0rem;
+    .content_fiture {
+      .image_line {
+        margin: 0rem 0rem 0rem 16rem !important;
+      }
+      &_lelang {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+
+          p {
+            text-align: justify;
+            font-size: 1.2rem;
+          }
+        }
+      }
+
+      &_chat {
+        &_informasi {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+            font-size: 1.2rem;
+          }
+        }
+      }
+
+      &_transaksi {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+            font-size: 1.2rem;
+          }
+        }
+      }
+    }
+  }
+
+  .question {
+    .content_question {
+      &_tagline {
+        label {
+          font-size: 2.4rem;
+          text-align: center;
+        }
+      }
+
+      &_collapse {
+        span {
+          line-height: 1.4;
+        }
+
+        .information {
+          text-align: left;
+          font-size: 18px !important;
+        }
+
+        .title {
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .product {
+    .content_product {
+      &_information {
+        label {
+          font-size: 2rem;
+          line-height: 1.6;
+        }
+
+        .element {
+          width: 250px;
+        }
+
+        .information_tag {
+          font-size: 18px;
+        }
+
+        .apps_product {
+          margin: 0;
+
+          .image_apps {
+            width: 208px;
+            height: 100px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $ipad) and (max-width: $ipad) {
+  .content-beranda {
+    .information_tagline {
+      .text-center {
+        h1 {
+          font-size: 40px !important;
+          line-height: 1.4;
+        }
+        span {
+          font-size: 20px;
+        }
+      }
+    }
+  }
+
+  .image_banner {
+    margin: -16rem 0rem 0rem 0rem;
+  }
+
+  .apps {
+    .image_apps {
+      width: 200px;
+      height: 110px;
+    }
+  }
+
+  .fiture {
+    margin: 0rem 0rem 2rem 0rem;
+    .content_fiture {
+      .image_line {
+        margin: 0rem 0rem 0rem 16rem !important;
+      }
+      &_lelang {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+
+          p {
+            text-align: justify;
+            font-size: 1.2rem;
+          }
+        }
+      }
+
+      &_chat {
+        &_informasi {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+            font-size: 1.2rem;
+          }
+        }
+      }
+
+      &_transaksi {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+            font-size: 1.2rem;
+          }
+        }
+      }
+    }
+  }
+
+  .question {
+    .content_question {
+      &_tagline {
+        label {
+          font-size: 2.4rem;
+          text-align: center;
+        }
+      }
+
+      &_collapse {
+        span {
+          line-height: 1.4;
+        }
+
+        .information {
+          text-align: left;
+          font-size: 18px !important;
+        }
+
+        .title {
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .product {
+    .content_product {
+      &_information {
+        label {
+          font-size: 2rem;
+          line-height: 1.6;
+        }
+
+        .element {
+          width: 250px;
+        }
+
+        .information_tag {
+          font-size: 18px;
+        }
+
+        .apps_product {
+          margin: 0;
+
+          .image_apps {
+            width: 208px;
+            height: 100px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $galaxy-tab) and (max-width: $ipad-pro) {
+  .content-beranda {
+    .information_tagline {
+      .text-center {
+        h1 {
+          font-size: 60px !important;
+          line-height: 1.4;
+        }
+        span {
+          font-size: 30px;
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .image_banner {
+    margin: -2rem 0rem 0rem 0rem !important;
+  }
+
+  .apps {
+    .image_apps {
+      width: 300px;
+      height: 160px;
+    }
+  }
+
+  .fiture {
+    margin: 0rem 0rem 2rem 0rem;
+    .content_fiture {
+      .image_line {
+        margin: 0rem 0rem 0rem 20rem !important;
+      }
+      &_lelang {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+
+          p {
+            text-align: justify;
+            font-size: 1.2rem;
+          }
+        }
+      }
+
+      &_chat {
+        &_informasi {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+            font-size: 1.2rem;
+          }
+        }
+      }
+
+      &_transaksi {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+            font-size: 1.2rem;
+          }
+        }
+      }
+    }
+  }
+
+  .question {
+    .content_question {
+      &_tagline {
+        label {
+          font-size: 2.4rem;
+          text-align: center;
+        }
+      }
+
+      &_collapse {
+        span {
+          line-height: 1.4;
+        }
+
+        .information {
+          text-align: left;
+          font-size: 18px !important;
+        }
+
+        .title {
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .product {
+    .content_product {
+      &_information {
+        label {
+          font-size: 2rem;
+          line-height: 1.6;
+        }
+
+        .element {
+          width: 250px;
+        }
+
+        .information_tag {
+          font-size: 18px;
+        }
+
+        .apps_product {
+          margin: 0;
+
+          .image_apps {
+            width: 208px;
+            height: 100px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: $galaxy-fold) and (max-width: $galaxy-fold) {
+  .content-beranda {
+    .information_tagline {
+      .text-center {
+        h1 {
+          font-size: 60px !important;
+          line-height: 1.4;
+        }
+        span {
+          font-size: 30px;
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .image_banner {
+    margin: -4rem 0rem 0rem 0rem !important;
+  }
+
+  .apps {
+    .image_apps {
+      width: 300px;
+      height: 160px;
+    }
+  }
+
+  .fiture {
+    .content_fiture {
+      .image_line {
+        margin: 0rem 0rem 0rem 20rem !important;
+      }
+      &_lelang {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+
+          p {
+            text-align: justify;
+            font-size: 1.2rem;
+          }
+        }
+      }
+
+      &_chat {
+        &_informasi {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+            font-size: 1.2rem;
+          }
+        }
+      }
+
+      &_transaksi {
+        .information_lelang {
+          label {
+            font-size: 1.8rem;
+          }
+          p {
+            text-align: justify;
+            font-size: 1.2rem;
+          }
+        }
+      }
+    }
+  }
+
+  .question {
+    .content_question {
+      &_tagline {
+        label {
+          font-size: 2.4rem;
+          text-align: center;
+        }
+      }
+
+      &_collapse {
+        span {
+          line-height: 1.4;
+        }
+
+        .information {
+          text-align: left;
+          font-size: 18px !important;
+        }
+
+        .title {
+          line-height: 1.4;
+        }
+      }
+    }
+  }
+
+  .product {
+    .content_product {
+      &_information {
+        label {
+          font-size: 2rem;
+          line-height: 1.6;
+        }
+
+        .element {
+          width: 250px;
+        }
+
+        .information_tag {
+          font-size: 18px;
+        }
+
+        .apps_product {
+          margin: 0;
+
+          .image_apps {
+            width: 208px;
+            height: 100px;
+          }
+        }
+      }
+    }
+  }
+}
